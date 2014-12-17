@@ -1,0 +1,4306 @@
+{
+    "SF13_ENG_001:per:age": [
+        "47", 
+        "44", 
+        "43"
+    ], 
+    "SF13_ENG_001:per:alternate_names": [
+        "ramzan bashardost", 
+        "mohammad ramzan bashardost"
+    ], 
+    "SF13_ENG_001:per:cause_of_death": [], 
+    "SF13_ENG_001:per:charges": [], 
+    "SF13_ENG_001:per:children": [], 
+    "SF13_ENG_001:per:cities_of_residence": [
+        "kabul", 
+        "paris"
+    ], 
+    "SF13_ENG_001:per:city_of_birth": [], 
+    "SF13_ENG_001:per:city_of_death": [], 
+    "SF13_ENG_001:per:countries_of_residence": [
+        "pakistan", 
+        "afghanistan", 
+        "iran", 
+        "france"
+    ], 
+    "SF13_ENG_001:per:country_of_birth": [
+        "afghanistan"
+    ], 
+    "SF13_ENG_001:per:country_of_death": [], 
+    "SF13_ENG_001:per:date_of_birth": [
+        "1965", 
+        "1965-xx-xx"
+    ], 
+    "SF13_ENG_001:per:date_of_death": [], 
+    "SF13_ENG_001:per:employee_or_member_of": [
+        "afghanistan", 
+        "parliament", 
+        "foreign ministry", 
+        "cabinet", 
+        "european affairs department", 
+        "afghan embassy"
+    ], 
+    "SF13_ENG_001:per:origin": [
+        "afghanistan", 
+        "afghan", 
+        "hazara"
+    ], 
+    "SF13_ENG_001:per:other_family": [], 
+    "SF13_ENG_001:per:parents": [], 
+    "SF13_ENG_001:per:religion": [], 
+    "SF13_ENG_001:per:schools_attended": [
+        "toloz university", 
+        "university of toulouse"
+    ], 
+    "SF13_ENG_001:per:siblings": [], 
+    "SF13_ENG_001:per:spouse": [], 
+    "SF13_ENG_001:per:stateorprovince_of_birth": [
+        "ghazni province", 
+        "ghazni"
+    ], 
+    "SF13_ENG_001:per:stateorprovince_of_death": [], 
+    "SF13_ENG_001:per:statesorprovinces_of_residence": [
+        "ghazni province"
+    ], 
+    "SF13_ENG_001:per:title": [
+        "planning minister", 
+        "parliamentarian", 
+        "cabinet minister", 
+        "candidate", 
+        "presidential candidate", 
+        "lawmaker", 
+        "member of parliament", 
+        "doctor", 
+        "campaigner", 
+        "dr.", 
+        "scholar", 
+        "legislator", 
+        "representative"
+    ], 
+    "SF13_ENG_002:per:age": [
+        "50"
+    ], 
+    "SF13_ENG_002:per:alternate_names": [], 
+    "SF13_ENG_002:per:children": [], 
+    "SF13_ENG_002:per:cities_of_residence": [], 
+    "SF13_ENG_002:per:city_of_birth": [], 
+    "SF13_ENG_002:per:countries_of_residence": [
+        "dutchman"
+    ], 
+    "SF13_ENG_002:per:country_of_birth": [], 
+    "SF13_ENG_002:per:country_of_death": [], 
+    "SF13_ENG_002:per:date_of_birth": [], 
+    "SF13_ENG_002:per:date_of_death": [], 
+    "SF13_ENG_002:per:employee_or_member_of": [
+        "morrisons plc", 
+        "heineken", 
+        "marks & spencer group plc", 
+        "morrison supermarkets plc", 
+        "marks & spencer", 
+        "morrisons", 
+        "morrison supermarkets", 
+        "morrison"
+    ], 
+    "SF13_ENG_002:per:origin": [
+        "netherlands", 
+        "dutchman"
+    ], 
+    "SF13_ENG_002:per:other_family": [], 
+    "SF13_ENG_002:per:parents": [], 
+    "SF13_ENG_002:per:religion": [], 
+    "SF13_ENG_002:per:schools_attended": [], 
+    "SF13_ENG_002:per:siblings": [], 
+    "SF13_ENG_002:per:spouse": [], 
+    "SF13_ENG_002:per:stateorprovince_of_birth": [], 
+    "SF13_ENG_002:per:statesorprovinces_of_residence": [], 
+    "SF13_ENG_002:per:title": [
+        "ceo", 
+        "chief executive", 
+        "chief operating officer"
+    ], 
+    "SF13_ENG_003:per:age": [], 
+    "SF13_ENG_003:per:alternate_names": [], 
+    "SF13_ENG_003:per:children": [], 
+    "SF13_ENG_003:per:cities_of_residence": [], 
+    "SF13_ENG_003:per:city_of_birth": [], 
+    "SF13_ENG_003:per:city_of_death": [], 
+    "SF13_ENG_003:per:countries_of_residence": [
+        "briton"
+    ], 
+    "SF13_ENG_003:per:country_of_birth": [], 
+    "SF13_ENG_003:per:country_of_death": [], 
+    "SF13_ENG_003:per:date_of_birth": [], 
+    "SF13_ENG_003:per:date_of_death": [], 
+    "SF13_ENG_003:per:employee_or_member_of": [
+        "marks &amp; spencer", 
+        "marks & spencer", 
+        "m&s"
+    ], 
+    "SF13_ENG_003:per:origin": [
+        "briton", 
+        "britain", 
+        "british"
+    ], 
+    "SF13_ENG_003:per:other_family": [], 
+    "SF13_ENG_003:per:parents": [], 
+    "SF13_ENG_003:per:religion": [], 
+    "SF13_ENG_003:per:schools_attended": [], 
+    "SF13_ENG_003:per:siblings": [], 
+    "SF13_ENG_003:per:spouse": [], 
+    "SF13_ENG_003:per:stateorprovince_of_birth": [], 
+    "SF13_ENG_003:per:stateorprovince_of_death": [], 
+    "SF13_ENG_003:per:statesorprovinces_of_residence": [], 
+    "SF13_ENG_003:per:title": [
+        "executive chairman", 
+        "ceo", 
+        "boss", 
+        "chief executive", 
+        "chairman"
+    ], 
+    "SF13_ENG_004:per:age": [
+        "55"
+    ], 
+    "SF13_ENG_004:per:alternate_names": [], 
+    "SF13_ENG_004:per:children": [], 
+    "SF13_ENG_004:per:cities_of_residence": [], 
+    "SF13_ENG_004:per:city_of_birth": [], 
+    "SF13_ENG_004:per:city_of_death": [], 
+    "SF13_ENG_004:per:countries_of_residence": [], 
+    "SF13_ENG_004:per:country_of_birth": [], 
+    "SF13_ENG_004:per:country_of_death": [], 
+    "SF13_ENG_004:per:date_of_birth": [], 
+    "SF13_ENG_004:per:date_of_death": [], 
+    "SF13_ENG_004:per:employee_or_member_of": [
+        "bp's audit committee", 
+        "hsbc", 
+        "bp", 
+        "audit committee", 
+        "bp 's audit committee"
+    ], 
+    "SF13_ENG_004:per:origin": [], 
+    "SF13_ENG_004:per:other_family": [], 
+    "SF13_ENG_004:per:parents": [], 
+    "SF13_ENG_004:per:religion": [], 
+    "SF13_ENG_004:per:schools_attended": [], 
+    "SF13_ENG_004:per:siblings": [], 
+    "SF13_ENG_004:per:spouse": [], 
+    "SF13_ENG_004:per:stateorprovince_of_birth": [], 
+    "SF13_ENG_004:per:statesorprovinces_of_residence": [], 
+    "SF13_ENG_004:per:title": [
+        "chief financial officer", 
+        "chairman", 
+        "finance director"
+    ], 
+    "SF13_ENG_005:per:age": [
+        "48", 
+        "49"
+    ], 
+    "SF13_ENG_005:per:alternate_names": [
+        "tahawwur rana", 
+        "tahawwur rehman rana", 
+        "tahawwur hussein rana"
+    ], 
+    "SF13_ENG_005:per:cause_of_death": [], 
+    "SF13_ENG_005:per:charges": [
+        "conspiracy to provide material support to a foreign terrorism conspiracy", 
+        "terror activities", 
+        "terrorist attacks", 
+        "terror", 
+        "conspiracy"
+    ], 
+    "SF13_ENG_005:per:children": [], 
+    "SF13_ENG_005:per:cities_of_residence": [
+        "chicago"
+    ], 
+    "SF13_ENG_005:per:city_of_birth": [], 
+    "SF13_ENG_005:per:city_of_death": [], 
+    "SF13_ENG_005:per:countries_of_residence": [
+        "canada", 
+        "pakistan", 
+        "canadian", 
+        "u.s.", 
+        "pakistani"
+    ], 
+    "SF13_ENG_005:per:country_of_birth": [
+        "pakistan", 
+        "pakistani"
+    ], 
+    "SF13_ENG_005:per:country_of_death": [], 
+    "SF13_ENG_005:per:date_of_birth": [], 
+    "SF13_ENG_005:per:date_of_death": [], 
+    "SF13_ENG_005:per:employee_or_member_of": [
+        "first world immigration services", 
+        "iqbal society"
+    ], 
+    "SF13_ENG_005:per:origin": [
+        "canada", 
+        "pakistan", 
+        "u.s.", 
+        "canadian"
+    ], 
+    "SF13_ENG_005:per:other_family": [], 
+    "SF13_ENG_005:per:parents": [], 
+    "SF13_ENG_005:per:religion": [
+        "islamist"
+    ], 
+    "SF13_ENG_005:per:schools_attended": [
+        "hasan abdal cadet college"
+    ], 
+    "SF13_ENG_005:per:siblings": [], 
+    "SF13_ENG_005:per:spouse": [], 
+    "SF13_ENG_005:per:stateorprovince_of_birth": [], 
+    "SF13_ENG_005:per:stateorprovince_of_death": [], 
+    "SF13_ENG_005:per:statesorprovinces_of_residence": [], 
+    "SF13_ENG_005:per:title": [
+        "doctor", 
+        "medical doctor", 
+        "terrorists", 
+        "owner", 
+        "businessman", 
+        "counselor", 
+        "operatives"
+    ], 
+    "SF13_ENG_006:per:age": [
+        "88", 
+        "13", 
+        "87"
+    ], 
+    "SF13_ENG_006:per:alternate_names": [], 
+    "SF13_ENG_006:per:cause_of_death": [
+        "kidney failure", 
+        "prolonged kidney ailment"
+    ], 
+    "SF13_ENG_006:per:charges": [], 
+    "SF13_ENG_006:per:children": [
+        "aashish khan", 
+        "aashish", 
+        "alam", 
+        "manik", 
+        "aasish"
+    ], 
+    "SF13_ENG_006:per:cities_of_residence": [
+        "maihar", 
+        "bombay", 
+        "mumbai"
+    ], 
+    "SF13_ENG_006:per:city_of_birth": [
+        "shivpur", 
+        "shibpur"
+    ], 
+    "SF13_ENG_006:per:city_of_death": [
+        "san anselmo"
+    ], 
+    "SF13_ENG_006:per:countries_of_residence": [], 
+    "SF13_ENG_006:per:country_of_birth": [
+        "bangladesh"
+    ], 
+    "SF13_ENG_006:per:country_of_death": [
+        "united states"
+    ], 
+    "SF13_ENG_006:per:date_of_birth": [
+        "4/14/1922", 
+        "1922-04-14", 
+        "1922-xx-xx", 
+        "april 14, 1922"
+    ], 
+    "SF13_ENG_006:per:date_of_death": [
+        "6/19/2009", 
+        "2009-06-18", 
+        "2009-06-19"
+    ], 
+    "SF13_ENG_006:per:employee_or_member_of": [
+        "ali akbar college of music", 
+        "all-india radio"
+    ], 
+    "SF13_ENG_006:per:origin": [
+        "indian"
+    ], 
+    "SF13_ENG_006:per:other_family": [
+        "ravi shankar"
+    ], 
+    "SF13_ENG_006:per:parents": [
+        "allauddin khan"
+    ], 
+    "SF13_ENG_006:per:religion": [], 
+    "SF13_ENG_006:per:schools_attended": [], 
+    "SF13_ENG_006:per:siblings": [
+        "annapurna devi"
+    ], 
+    "SF13_ENG_006:per:spouse": [
+        "mary", 
+        "mary khan"
+    ], 
+    "SF13_ENG_006:per:stateorprovince_of_birth": [
+        "east bengal"
+    ], 
+    "SF13_ENG_006:per:stateorprovince_of_death": [], 
+    "SF13_ENG_006:per:statesorprovinces_of_residence": [], 
+    "SF13_ENG_006:per:title": [
+        "music director", 
+        "musician", 
+        "sarod player", 
+        "composer"
+    ], 
+    "SF13_ENG_007:per:age": [
+        "81"
+    ], 
+    "SF13_ENG_007:per:alternate_names": [
+        "mohamed sayyid tantawi", 
+        "mohammed tantawi"
+    ], 
+    "SF13_ENG_007:per:cause_of_death": [
+        "heart attack"
+    ], 
+    "SF13_ENG_007:per:children": [
+        "amr tantawi"
+    ], 
+    "SF13_ENG_007:per:cities_of_residence": [], 
+    "SF13_ENG_007:per:city_of_birth": [
+        "salim"
+    ], 
+    "SF13_ENG_007:per:city_of_death": [
+        "riyadh"
+    ], 
+    "SF13_ENG_007:per:countries_of_residence": [
+        "egypt", 
+        "egyptian"
+    ], 
+    "SF13_ENG_007:per:country_of_birth": [], 
+    "SF13_ENG_007:per:country_of_death": [
+        "saudi arabia", 
+        "saudi_arabia"
+    ], 
+    "SF13_ENG_007:per:date_of_birth": [
+        "1928-xx-xx", 
+        "1928-10-28"
+    ], 
+    "SF13_ENG_007:per:date_of_death": [
+        "2012-03-10", 
+        "2010-03-10"
+    ], 
+    "SF13_ENG_007:per:employee_or_member_of": [
+        "egypt", 
+        "al-azhar", 
+        "al-azhar university"
+    ], 
+    "SF13_ENG_007:per:origin": [
+        "egypt", 
+        "egyptian"
+    ], 
+    "SF13_ENG_007:per:other_family": [], 
+    "SF13_ENG_007:per:parents": [], 
+    "SF13_ENG_007:per:religion": [
+        "sunni", 
+        "sunni islam", 
+        "muslim"
+    ], 
+    "SF13_ENG_007:per:schools_attended": [
+        "al-azhar", 
+        "al-azhar university"
+    ], 
+    "SF13_ENG_007:per:siblings": [], 
+    "SF13_ENG_007:per:spouse": [], 
+    "SF13_ENG_007:per:stateorprovince_of_birth": [
+        "sohag governorate", 
+        "sohag"
+    ], 
+    "SF13_ENG_007:per:stateorprovince_of_death": [], 
+    "SF13_ENG_007:per:statesorprovinces_of_residence": [], 
+    "SF13_ENG_007:per:title": [
+        "mufti", 
+        "cleric", 
+        "scholar", 
+        "grand imam", 
+        "the grand imam", 
+        "grand mufti", 
+        "grand sheik"
+    ], 
+    "SF13_ENG_008:per:alternate_names": [], 
+    "SF13_ENG_008:per:cause_of_death": [
+        "a heart attack", 
+        "heart attack"
+    ], 
+    "SF13_ENG_008:per:charges": [
+        "betting"
+    ], 
+    "SF13_ENG_008:per:children": [], 
+    "SF13_ENG_008:per:cities_of_residence": [], 
+    "SF13_ENG_008:per:city_of_death": [
+        "paris", 
+        "boulogne-billancourt"
+    ], 
+    "SF13_ENG_008:per:countries_of_residence": [], 
+    "SF13_ENG_008:per:country_of_death": [], 
+    "SF13_ENG_008:per:date_of_death": [
+        "2009-07-06"
+    ], 
+    "SF13_ENG_008:per:employee_or_member_of": [], 
+    "SF13_ENG_008:per:origin": [
+        "french", 
+        "france"
+    ], 
+    "SF13_ENG_008:per:other_family": [], 
+    "SF13_ENG_008:per:parents": [], 
+    "SF13_ENG_008:per:religion": [], 
+    "SF13_ENG_008:per:schools_attended": [], 
+    "SF13_ENG_008:per:siblings": [], 
+    "SF13_ENG_008:per:spouse": [], 
+    "SF13_ENG_008:per:stateorprovince_of_birth": [], 
+    "SF13_ENG_008:per:stateorprovince_of_death": [], 
+    "SF13_ENG_008:per:statesorprovinces_of_residence": [], 
+    "SF13_ENG_008:per:title": [
+        "player", 
+        "tennis player"
+    ], 
+    "SF13_ENG_009:per:age": [
+        "88", 
+        "87"
+    ], 
+    "SF13_ENG_009:per:alternate_names": [], 
+    "SF13_ENG_009:per:cause_of_death": [
+        "illness", 
+        "heart attack"
+    ], 
+    "SF13_ENG_009:per:charges": [], 
+    "SF13_ENG_009:per:children": [], 
+    "SF13_ENG_009:per:cities_of_residence": [], 
+    "SF13_ENG_009:per:city_of_birth": [], 
+    "SF13_ENG_009:per:city_of_death": [
+        "karachi"
+    ], 
+    "SF13_ENG_009:per:countries_of_residence": [
+        "pakistan"
+    ], 
+    "SF13_ENG_009:per:country_of_birth": [], 
+    "SF13_ENG_009:per:country_of_death": [], 
+    "SF13_ENG_009:per:date_of_birth": [], 
+    "SF13_ENG_009:per:date_of_death": [], 
+    "SF13_ENG_009:per:employee_or_member_of": [
+        "pakistan boxing federation", 
+        "aiba", 
+        "international boxing association", 
+        "the pakistan boxing federation", 
+        "international amateur boxing association", 
+        "international_amateur_boxing_association"
+    ], 
+    "SF13_ENG_009:per:origin": [
+        "pakistan"
+    ], 
+    "SF13_ENG_009:per:other_family": [], 
+    "SF13_ENG_009:per:parents": [], 
+    "SF13_ENG_009:per:religion": [], 
+    "SF13_ENG_009:per:schools_attended": [], 
+    "SF13_ENG_009:per:siblings": [], 
+    "SF13_ENG_009:per:stateorprovince_of_birth": [], 
+    "SF13_ENG_009:per:stateorprovince_of_death": [], 
+    "SF13_ENG_009:per:statesorprovinces_of_residence": [], 
+    "SF13_ENG_009:per:title": [
+        "professor", 
+        "chief", 
+        "incumbent", 
+        "prof", 
+        "president"
+    ], 
+    "SF13_ENG_010:per:alternate_names": [], 
+    "SF13_ENG_010:per:cause_of_death": [
+        "stomach cancer"
+    ], 
+    "SF13_ENG_010:per:charges": [], 
+    "SF13_ENG_010:per:children": [
+        "dan padavona", 
+        "daniel"
+    ], 
+    "SF13_ENG_010:per:cities_of_residence": [
+        "cortland"
+    ], 
+    "SF13_ENG_010:per:city_of_death": [
+        "los angeles"
+    ], 
+    "SF13_ENG_010:per:countries_of_residence": [], 
+    "SF13_ENG_010:per:country_of_death": [], 
+    "SF13_ENG_010:per:date_of_death": [
+        "2010-05-16"
+    ], 
+    "SF13_ENG_010:per:employee_or_member_of": [], 
+    "SF13_ENG_010:per:origin": [], 
+    "SF13_ENG_010:per:other_family": [
+        "julie", 
+        "david feinstein", 
+        "joey"
+    ], 
+    "SF13_ENG_010:per:parents": [
+        "pat padavona;", 
+        "pat padavona"
+    ], 
+    "SF13_ENG_010:per:religion": [], 
+    "SF13_ENG_010:per:schools_attended": [], 
+    "SF13_ENG_010:per:siblings": [], 
+    "SF13_ENG_010:per:spouse": [
+        "wendy dio", 
+        "wendy"
+    ], 
+    "SF13_ENG_010:per:stateorprovince_of_death": [], 
+    "SF13_ENG_010:per:statesorprovinces_of_residence": [
+        "new york"
+    ], 
+    "SF13_ENG_010:per:title": [], 
+    "SF13_ENG_011:per:age": [
+        "85"
+    ], 
+    "SF13_ENG_011:per:alternate_names": [
+        "tony", 
+        "anthony d. marshall"
+    ], 
+    "SF13_ENG_011:per:cause_of_death": [], 
+    "SF13_ENG_011:per:charges": [
+        "fraud", 
+        "looting", 
+        "steal", 
+        "forgery", 
+        "defrauding", 
+        "first-degree grand larceny", 
+        "grand larceny", 
+        "conspiracy", 
+        "scheming to defraud", 
+        "domestic violence"
+    ], 
+    "SF13_ENG_011:per:children": [
+        "philip marshall", 
+        "philip"
+    ], 
+    "SF13_ENG_011:per:cities_of_residence": [], 
+    "SF13_ENG_011:per:city_of_birth": [], 
+    "SF13_ENG_011:per:city_of_death": [], 
+    "SF13_ENG_011:per:countries_of_residence": [
+        "u.s.", 
+        "us"
+    ], 
+    "SF13_ENG_011:per:country_of_birth": [], 
+    "SF13_ENG_011:per:country_of_death": [], 
+    "SF13_ENG_011:per:date_of_birth": [], 
+    "SF13_ENG_011:per:date_of_death": [], 
+    "SF13_ENG_011:per:employee_or_member_of": [
+        "marine corps", 
+        "marines", 
+        "marine", 
+        "us"
+    ], 
+    "SF13_ENG_011:per:origin": [
+        "united states", 
+        "u.s."
+    ], 
+    "SF13_ENG_011:per:other_family": [
+        "vincent astor"
+    ], 
+    "SF13_ENG_011:per:parents": [
+        "brooke astor", 
+        "j. dryden kuser", 
+        "astor"
+    ], 
+    "SF13_ENG_011:per:religion": [], 
+    "SF13_ENG_011:per:schools_attended": [], 
+    "SF13_ENG_011:per:siblings": [], 
+    "SF13_ENG_011:per:spouse": [
+        "charlene marshall", 
+        "charlene"
+    ], 
+    "SF13_ENG_011:per:stateorprovince_of_birth": [], 
+    "SF13_ENG_011:per:stateorprovince_of_death": [], 
+    "SF13_ENG_011:per:statesorprovinces_of_residence": [], 
+    "SF13_ENG_011:per:title": [
+        "ambassador", 
+        "diplomat", 
+        "producer", 
+        "author", 
+        "marine"
+    ], 
+    "SF13_ENG_012:per:age": [
+        "31-year-old", 
+        "31", 
+        "28", 
+        "18"
+    ], 
+    "SF13_ENG_012:per:alternate_names": [
+        "azzam al-ameriki", 
+        "azzam al-amriki", 
+        "azzam the american", 
+        "abu suhayb al-amriki", 
+        "yahya majadin adams", 
+        "abu yahiya gadahn", 
+        "adam pearlman", 
+        "adam yahiye gadahn", 
+        "azzam al-amreeki"
+    ], 
+    "SF13_ENG_012:per:cause_of_death": [], 
+    "SF13_ENG_012:per:charges": [
+        "treason"
+    ], 
+    "SF13_ENG_012:per:children": [], 
+    "SF13_ENG_012:per:cities_of_residence": [
+        "karachi"
+    ], 
+    "SF13_ENG_012:per:city_of_birth": [], 
+    "SF13_ENG_012:per:city_of_death": [], 
+    "SF13_ENG_012:per:countries_of_residence": [
+        "pakistan", 
+        "american"
+    ], 
+    "SF13_ENG_012:per:country_of_birth": [
+        "u.s.", 
+        "american", 
+        "america"
+    ], 
+    "SF13_ENG_012:per:country_of_death": [], 
+    "SF13_ENG_012:per:date_of_birth": [
+        "1978-09-01", 
+        "1978-xx-xx"
+    ], 
+    "SF13_ENG_012:per:date_of_death": [], 
+    "SF13_ENG_012:per:employee_or_member_of": [
+        "al-qaida", 
+        "al-qaeda", 
+        "qaida"
+    ], 
+    "SF13_ENG_012:per:origin": [
+        "american", 
+        "u.s.", 
+        "us"
+    ], 
+    "SF13_ENG_012:per:other_family": [
+        "carl pearlman", 
+        "agnes branch"
+    ], 
+    "SF13_ENG_012:per:parents": [
+        "phil pearlman"
+    ], 
+    "SF13_ENG_012:per:religion": [
+        "jewish", 
+        "muslims", 
+        "islam"
+    ], 
+    "SF13_ENG_012:per:schools_attended": [], 
+    "SF13_ENG_012:per:siblings": [], 
+    "SF13_ENG_012:per:spouse": [], 
+    "SF13_ENG_012:per:stateorprovince_of_birth": [
+        "oregon"
+    ], 
+    "SF13_ENG_012:per:stateorprovince_of_death": [], 
+    "SF13_ENG_012:per:statesorprovinces_of_residence": [
+        "california"
+    ], 
+    "SF13_ENG_012:per:title": [
+        "propaganda chief", 
+        "senior operative", 
+        "translator", 
+        "spokesperson", 
+        "consultant", 
+        "advisor", 
+        "agent", 
+        "commander", 
+        "spokesman", 
+        "propagandist", 
+        "security guard", 
+        "operative"
+    ], 
+    "SF13_ENG_013:per:age": [
+        "26", 
+        "34"
+    ], 
+    "SF13_ENG_013:per:alternate_names": [], 
+    "SF13_ENG_013:per:charges": [
+        "treason"
+    ], 
+    "SF13_ENG_013:per:children": [], 
+    "SF13_ENG_013:per:cities_of_residence": [], 
+    "SF13_ENG_013:per:city_of_birth": [], 
+    "SF13_ENG_013:per:city_of_death": [], 
+    "SF13_ENG_013:per:countries_of_residence": [
+        "zimbabwean", 
+        "zimbabwe", 
+        "england"
+    ], 
+    "SF13_ENG_013:per:country_of_birth": [], 
+    "SF13_ENG_013:per:country_of_death": [], 
+    "SF13_ENG_013:per:date_of_birth": [], 
+    "SF13_ENG_013:per:date_of_death": [], 
+    "SF13_ENG_013:per:employee_or_member_of": [
+        "zimbabwe", 
+        "lashings world xi"
+    ], 
+    "SF13_ENG_013:per:origin": [], 
+    "SF13_ENG_013:per:other_family": [], 
+    "SF13_ENG_013:per:parents": [], 
+    "SF13_ENG_013:per:religion": [], 
+    "SF13_ENG_013:per:siblings": [], 
+    "SF13_ENG_013:per:spouse": [], 
+    "SF13_ENG_013:per:stateorprovince_of_birth": [], 
+    "SF13_ENG_013:per:stateorprovince_of_death": [], 
+    "SF13_ENG_013:per:statesorprovinces_of_residence": [], 
+    "SF13_ENG_013:per:title": [
+        "fast bowler", 
+        "player", 
+        "bowler", 
+        "cricketer"
+    ], 
+    "SF13_ENG_014:per:age": [
+        "73"
+    ], 
+    "SF13_ENG_014:per:alternate_names": [
+        "abu daoud"
+    ], 
+    "SF13_ENG_014:per:cause_of_death": [
+        "kidney failure", 
+        "kidney disease"
+    ], 
+    "SF13_ENG_014:per:charges": [], 
+    "SF13_ENG_014:per:children": [
+        "hana", 
+        "wafa"
+    ], 
+    "SF13_ENG_014:per:cities_of_residence": [
+        "jerusalem", 
+        "ramallah"
+    ], 
+    "SF13_ENG_014:per:city_of_birth": [
+        "jerusalem"
+    ], 
+    "SF13_ENG_014:per:city_of_death": [
+        "damascus"
+    ], 
+    "SF13_ENG_014:per:countries_of_residence": [
+        "lebanon", 
+        "jordan"
+    ], 
+    "SF13_ENG_014:per:country_of_birth": [], 
+    "SF13_ENG_014:per:country_of_death": [], 
+    "SF13_ENG_014:per:date_of_birth": [
+        "1937-xx-xx", 
+        "1937"
+    ], 
+    "SF13_ENG_014:per:date_of_death": [
+        "2010-07-02", 
+        "2010-07-03", 
+        "7/3/2010", 
+        "friday", 
+        "2010-07-xx", 
+        "saturday"
+    ], 
+    "SF13_ENG_014:per:employee_or_member_of": [
+        "plo", 
+        "palestine liberation organization", 
+        "black september", 
+        "fatah revolutionary council"
+    ], 
+    "SF13_ENG_014:per:origin": [
+        "palestine", 
+        "palestinian"
+    ], 
+    "SF13_ENG_014:per:other_family": [], 
+    "SF13_ENG_014:per:parents": [], 
+    "SF13_ENG_014:per:religion": [], 
+    "SF13_ENG_014:per:schools_attended": [], 
+    "SF13_ENG_014:per:siblings": [], 
+    "SF13_ENG_014:per:spouse": [], 
+    "SF13_ENG_014:per:stateorprovince_of_birth": [], 
+    "SF13_ENG_014:per:stateorprovince_of_death": [
+        "damascus"
+    ], 
+    "SF13_ENG_014:per:statesorprovinces_of_residence": [], 
+    "SF13_ENG_014:per:title": [
+        "math teacher", 
+        "teacher", 
+        "lawyer", 
+        "leader"
+    ], 
+    "SF13_ENG_015:per:age": [
+        "73"
+    ], 
+    "SF13_ENG_015:per:alternate_names": [], 
+    "SF13_ENG_015:per:cause_of_death": [
+        "bacterial infection"
+    ], 
+    "SF13_ENG_015:per:children": [
+        "channing", 
+        "gillian", 
+        "frederica", 
+        "sidney", 
+        "alexia", 
+        "gillian clifton-monell", 
+        "graham", 
+        "sidney clifton"
+    ], 
+    "SF13_ENG_015:per:cities_of_residence": [
+        "columbia", 
+        "buffalo", 
+        "baltimore"
+    ], 
+    "SF13_ENG_015:per:city_of_birth": [
+        "depew"
+    ], 
+    "SF13_ENG_015:per:city_of_death": [
+        "baltimore"
+    ], 
+    "SF13_ENG_015:per:countries_of_residence": [], 
+    "SF13_ENG_015:per:country_of_birth": [], 
+    "SF13_ENG_015:per:country_of_death": [], 
+    "SF13_ENG_015:per:date_of_birth": [
+        "1936-06-27"
+    ], 
+    "SF13_ENG_015:per:date_of_death": [
+        "2/13/2010", 
+        "2010-02-xx", 
+        "2010-02-13"
+    ], 
+    "SF13_ENG_015:per:employee_or_member_of": [
+        "st. mary's college of maryland", 
+        "the university of california at santa cruz", 
+        "u.s. office of education", 
+        "university of california, santa cruz", 
+        "coppin state college", 
+        "office of education", 
+        "university of california"
+    ], 
+    "SF13_ENG_015:per:origin": [
+        "american", 
+        "african"
+    ], 
+    "SF13_ENG_015:per:other_family": [], 
+    "SF13_ENG_015:per:parents": [
+        "samuel", 
+        "thelma"
+    ], 
+    "SF13_ENG_015:per:religion": [], 
+    "SF13_ENG_015:per:schools_attended": [
+        "howard university", 
+        "coppin state college"
+    ], 
+    "SF13_ENG_015:per:siblings": [
+        "elaine philip"
+    ], 
+    "SF13_ENG_015:per:spouse": [
+        "fred clifton"
+    ], 
+    "SF13_ENG_015:per:stateorprovince_of_birth": [
+        "n.y."
+    ], 
+    "SF13_ENG_015:per:stateorprovince_of_death": [], 
+    "SF13_ENG_015:per:statesorprovinces_of_residence": [
+        "maryland", 
+        "washington"
+    ], 
+    "SF13_ENG_015:per:title": [
+        "visiting professor", 
+        "writer in residence", 
+        "writer", 
+        "poet laureate", 
+        "poet"
+    ], 
+    "SF13_ENG_016:per:alternate_names": [], 
+    "SF13_ENG_016:per:cause_of_death": [], 
+    "SF13_ENG_016:per:charges": [
+        "possession of marijuana, cocaine and syringes"
+    ], 
+    "SF13_ENG_016:per:children": [], 
+    "SF13_ENG_016:per:cities_of_residence": [
+        "johnston"
+    ], 
+    "SF13_ENG_016:per:city_of_death": [
+        "urbandale"
+    ], 
+    "SF13_ENG_016:per:countries_of_residence": [], 
+    "SF13_ENG_016:per:country_of_birth": [], 
+    "SF13_ENG_016:per:country_of_death": [], 
+    "SF13_ENG_016:per:date_of_death": [
+        "2010-05-24"
+    ], 
+    "SF13_ENG_016:per:employee_or_member_of": [], 
+    "SF13_ENG_016:per:origin": [], 
+    "SF13_ENG_016:per:other_family": [], 
+    "SF13_ENG_016:per:parents": [], 
+    "SF13_ENG_016:per:religion": [], 
+    "SF13_ENG_016:per:schools_attended": [], 
+    "SF13_ENG_016:per:siblings": [], 
+    "SF13_ENG_016:per:spouse": [
+        "brenna gray"
+    ], 
+    "SF13_ENG_016:per:stateorprovince_of_death": [
+        "iowa"
+    ], 
+    "SF13_ENG_016:per:statesorprovinces_of_residence": [
+        "iowa"
+    ], 
+    "SF13_ENG_016:per:title": [], 
+    "SF13_ENG_017:per:alternate_names": [
+        "alexander meigs haig", 
+        "alexander meigs haig, jr.", 
+        "alexander m. haig jr."
+    ], 
+    "SF13_ENG_017:per:cause_of_death": [
+        "complications from an infection", 
+        "infection"
+    ], 
+    "SF13_ENG_017:per:charges": [], 
+    "SF13_ENG_017:per:children": [
+        "alexander patrick haig sr.", 
+        "brian", 
+        "barbara", 
+        "alexander"
+    ], 
+    "SF13_ENG_017:per:cities_of_residence": [], 
+    "SF13_ENG_017:per:city_of_death": [
+        "baltimore"
+    ], 
+    "SF13_ENG_017:per:countries_of_residence": [
+        "united states", 
+        "american", 
+        "us"
+    ], 
+    "SF13_ENG_017:per:country_of_birth": [], 
+    "SF13_ENG_017:per:country_of_death": [], 
+    "SF13_ENG_017:per:date_of_death": [
+        "2010-02-20"
+    ], 
+    "SF13_ENG_017:per:employee_or_member_of": [], 
+    "SF13_ENG_017:per:origin": [
+        "united states", 
+        "american", 
+        "u.s.", 
+        "us"
+    ], 
+    "SF13_ENG_017:per:other_family": [], 
+    "SF13_ENG_017:per:parents": [], 
+    "SF13_ENG_017:per:schools_attended": [
+        "u.s. military academy", 
+        "georgetown"
+    ], 
+    "SF13_ENG_017:per:siblings": [
+        "francis r. haig"
+    ], 
+    "SF13_ENG_017:per:spouse": [], 
+    "SF13_ENG_017:per:stateorprovince_of_death": [
+        "maryland"
+    ], 
+    "SF13_ENG_017:per:statesorprovinces_of_residence": [], 
+    "SF13_ENG_017:per:title": [], 
+    "SF13_ENG_018:per:alternate_names": [], 
+    "SF13_ENG_018:per:cause_of_death": [], 
+    "SF13_ENG_018:per:charges": [], 
+    "SF13_ENG_018:per:children": [
+        "danielle"
+    ], 
+    "SF13_ENG_018:per:cities_of_residence": [
+        "cleveland", 
+        "cleveland heights"
+    ], 
+    "SF13_ENG_018:per:city_of_death": [
+        "cleveland heights", 
+        "cleveland"
+    ], 
+    "SF13_ENG_018:per:countries_of_residence": [
+        "us"
+    ], 
+    "SF13_ENG_018:per:country_of_death": [
+        "us"
+    ], 
+    "SF13_ENG_018:per:date_of_death": [
+        "2010-07-12"
+    ], 
+    "SF13_ENG_018:per:employee_or_member_of": [
+        "navy", 
+        "veterans administration", 
+        "smith magazine", 
+        "jazz review"
+    ], 
+    "SF13_ENG_018:per:origin": [], 
+    "SF13_ENG_018:per:other_family": [], 
+    "SF13_ENG_018:per:parents": [], 
+    "SF13_ENG_018:per:religion": [
+        "jewish"
+    ], 
+    "SF13_ENG_018:per:schools_attended": [
+        "case western reserve university"
+    ], 
+    "SF13_ENG_018:per:siblings": [], 
+    "SF13_ENG_018:per:spouse": [
+        "joyce brabner", 
+        "brabner"
+    ], 
+    "SF13_ENG_018:per:stateorprovince_of_death": [
+        "ohio"
+    ], 
+    "SF13_ENG_018:per:statesorprovinces_of_residence": [
+        "ohio"
+    ], 
+    "SF13_ENG_018:per:title": [], 
+    "SF13_ENG_019:per:age": [
+        "47", 
+        "48"
+    ], 
+    "SF13_ENG_019:per:alternate_names": [
+        "keli s. mcgregor"
+    ], 
+    "SF13_ENG_019:per:cause_of_death": [
+        "viral heart infection", 
+        "natural causes"
+    ], 
+    "SF13_ENG_019:per:charges": [], 
+    "SF13_ENG_019:per:children": [
+        "taylor", 
+        "landri", 
+        "jordan", 
+        "logan"
+    ], 
+    "SF13_ENG_019:per:cities_of_residence": [], 
+    "SF13_ENG_019:per:city_of_death": [
+        "salt lake city"
+    ], 
+    "SF13_ENG_019:per:countries_of_residence": [], 
+    "SF13_ENG_019:per:country_of_birth": [], 
+    "SF13_ENG_019:per:country_of_death": [], 
+    "SF13_ENG_019:per:date_of_death": [
+        "2010-04-20"
+    ], 
+    "SF13_ENG_019:per:employee_or_member_of": [], 
+    "SF13_ENG_019:per:origin": [
+        "american"
+    ], 
+    "SF13_ENG_019:per:other_family": [], 
+    "SF13_ENG_019:per:parents": [
+        "brian"
+    ], 
+    "SF13_ENG_019:per:religion": [], 
+    "SF13_ENG_019:per:schools_attended": [
+        "university of florida", 
+        "lakewood high", 
+        "colorado state university"
+    ], 
+    "SF13_ENG_019:per:siblings": [], 
+    "SF13_ENG_019:per:spouse": [
+        "lori"
+    ], 
+    "SF13_ENG_019:per:stateorprovince_of_death": [
+        "utah"
+    ], 
+    "SF13_ENG_019:per:statesorprovinces_of_residence": [
+        "colorado"
+    ], 
+    "SF13_ENG_019:per:title": [], 
+    "SF13_ENG_020:per:age": [
+        "52"
+    ], 
+    "SF13_ENG_020:per:alternate_names": [
+        "christine daniels"
+    ], 
+    "SF13_ENG_020:per:cause_of_death": [], 
+    "SF13_ENG_020:per:charges": [], 
+    "SF13_ENG_020:per:children": [], 
+    "SF13_ENG_020:per:cities_of_residence": [
+        "los angeles"
+    ], 
+    "SF13_ENG_020:per:city_of_birth": [
+        "inglewood"
+    ], 
+    "SF13_ENG_020:per:city_of_death": [
+        "los angeles"
+    ], 
+    "SF13_ENG_020:per:countries_of_residence": [], 
+    "SF13_ENG_020:per:country_of_birth": [], 
+    "SF13_ENG_020:per:country_of_death": [], 
+    "SF13_ENG_020:per:date_of_birth": [
+        "1957-10-10"
+    ], 
+    "SF13_ENG_020:per:date_of_death": [
+        "2009-11-27"
+    ], 
+    "SF13_ENG_020:per:employee_or_member_of": [
+        "the times", 
+        "los angeles times", 
+        "anaheim bulletin", 
+        "the los angeles times", 
+        "times", 
+        "l.a. times"
+    ], 
+    "SF13_ENG_020:per:origin": [], 
+    "SF13_ENG_020:per:other_family": [], 
+    "SF13_ENG_020:per:parents": [], 
+    "SF13_ENG_020:per:religion": [], 
+    "SF13_ENG_020:per:schools_attended": [
+        "california state university", 
+        "cal state fullerton", 
+        "western high school"
+    ], 
+    "SF13_ENG_020:per:siblings": [
+        "john"
+    ], 
+    "SF13_ENG_020:per:spouse": [
+        "lisa dillman"
+    ], 
+    "SF13_ENG_020:per:stateorprovince_of_birth": [], 
+    "SF13_ENG_020:per:statesorprovinces_of_residence": [], 
+    "SF13_ENG_020:per:title": [
+        "sports writer", 
+        "columnist", 
+        "reporter", 
+        "sports editor", 
+        "sportswriter", 
+        "beat writer", 
+        "journalist"
+    ], 
+    "SF13_ENG_021:per:age": [
+        "43"
+    ], 
+    "SF13_ENG_021:per:alternate_names": [], 
+    "SF13_ENG_021:per:cause_of_death": [], 
+    "SF13_ENG_021:per:charges": [
+        "10 counts of aggravated assault for each sexual partner", 
+        "multiple indecent acts", 
+        "adultery", 
+        "indecent acts", 
+        "obstruction of justice", 
+        "violating his commander's order", 
+        "aggravated assault", 
+        "violating military law", 
+        "violating his squadron commander's october 2009 order"
+    ], 
+    "SF13_ENG_021:per:children": [], 
+    "SF13_ENG_021:per:cities_of_residence": [
+        "wichita"
+    ], 
+    "SF13_ENG_021:per:city_of_birth": [], 
+    "SF13_ENG_021:per:city_of_death": [], 
+    "SF13_ENG_021:per:countries_of_residence": [], 
+    "SF13_ENG_021:per:country_of_birth": [], 
+    "SF13_ENG_021:per:country_of_death": [], 
+    "SF13_ENG_021:per:date_of_birth": [], 
+    "SF13_ENG_021:per:date_of_death": [], 
+    "SF13_ENG_021:per:employee_or_member_of": [
+        "maintenance operations squadron"
+    ], 
+    "SF13_ENG_021:per:origin": [], 
+    "SF13_ENG_021:per:other_family": [], 
+    "SF13_ENG_021:per:parents": [], 
+    "SF13_ENG_021:per:religion": [], 
+    "SF13_ENG_021:per:schools_attended": [], 
+    "SF13_ENG_021:per:siblings": [], 
+    "SF13_ENG_021:per:spouse": [], 
+    "SF13_ENG_021:per:stateorprovince_of_birth": [], 
+    "SF13_ENG_021:per:stateorprovince_of_death": [], 
+    "SF13_ENG_021:per:statesorprovinces_of_residence": [
+        "kansas"
+    ], 
+    "SF13_ENG_021:per:title": [
+        "tech. sgt.", 
+        "tech sgt."
+    ], 
+    "SF13_ENG_022:per:age": [
+        "37"
+    ], 
+    "SF13_ENG_022:per:alternate_names": [
+        "mikel kabikoitz karrera sarobe", 
+        "mikel kabikoitz carrera sarobe", 
+        "ata"
+    ], 
+    "SF13_ENG_022:per:charges": [
+        "possession of false documents", 
+        "aggravated homicide", 
+        "criminal association", 
+        "violation of weapons laws", 
+        "terrorism", 
+        "attempted homicide"
+    ], 
+    "SF13_ENG_022:per:children": [], 
+    "SF13_ENG_022:per:cities_of_residence": [], 
+    "SF13_ENG_022:per:city_of_birth": [], 
+    "SF13_ENG_022:per:city_of_death": [], 
+    "SF13_ENG_022:per:countries_of_residence": [
+        "france"
+    ], 
+    "SF13_ENG_022:per:country_of_birth": [], 
+    "SF13_ENG_022:per:country_of_death": [], 
+    "SF13_ENG_022:per:date_of_birth": [], 
+    "SF13_ENG_022:per:date_of_death": [], 
+    "SF13_ENG_022:per:employee_or_member_of": [
+        "eta"
+    ], 
+    "SF13_ENG_022:per:origin": [
+        "spanish"
+    ], 
+    "SF13_ENG_022:per:parents": [], 
+    "SF13_ENG_022:per:religion": [], 
+    "SF13_ENG_022:per:schools_attended": [], 
+    "SF13_ENG_022:per:siblings": [], 
+    "SF13_ENG_022:per:spouse": [], 
+    "SF13_ENG_022:per:stateorprovince_of_birth": [], 
+    "SF13_ENG_022:per:stateorprovince_of_death": [], 
+    "SF13_ENG_022:per:statesorprovinces_of_residence": [], 
+    "SF13_ENG_022:per:title": [
+        "eta leader", 
+        "military leader", 
+        "military chief", 
+        "commander"
+    ], 
+    "SF13_ENG_023:per:alternate_names": [], 
+    "SF13_ENG_023:per:cause_of_death": [], 
+    "SF13_ENG_023:per:charges": [
+        "misconduct in office", 
+        "embezzlement", 
+        "perjury", 
+        "theft", 
+        "corruption"
+    ], 
+    "SF13_ENG_023:per:children": [], 
+    "SF13_ENG_023:per:cities_of_residence": [
+        "baltimore"
+    ], 
+    "SF13_ENG_023:per:city_of_death": [], 
+    "SF13_ENG_023:per:countries_of_residence": [], 
+    "SF13_ENG_023:per:country_of_death": [], 
+    "SF13_ENG_023:per:date_of_death": [], 
+    "SF13_ENG_023:per:employee_or_member_of": [], 
+    "SF13_ENG_023:per:origin": [], 
+    "SF13_ENG_023:per:other_family": [], 
+    "SF13_ENG_023:per:parents": [], 
+    "SF13_ENG_023:per:schools_attended": [], 
+    "SF13_ENG_023:per:siblings": [], 
+    "SF13_ENG_023:per:spouse": [], 
+    "SF13_ENG_023:per:stateorprovince_of_death": [], 
+    "SF13_ENG_023:per:statesorprovinces_of_residence": [], 
+    "SF13_ENG_023:per:title": [], 
+    "SF13_ENG_024:per:age": [
+        "38"
+    ], 
+    "SF13_ENG_024:per:alternate_names": [
+        "cristal taylor"
+    ], 
+    "SF13_ENG_024:per:charges": [
+        "probation violation", 
+        "forgery", 
+        "failing to pay", 
+        "theft", 
+        "stealing"
+    ], 
+    "SF13_ENG_024:per:children": [], 
+    "SF13_ENG_024:per:cities_of_residence": [], 
+    "SF13_ENG_024:per:city_of_birth": [], 
+    "SF13_ENG_024:per:city_of_death": [], 
+    "SF13_ENG_024:per:countries_of_residence": [], 
+    "SF13_ENG_024:per:country_of_birth": [], 
+    "SF13_ENG_024:per:country_of_death": [], 
+    "SF13_ENG_024:per:date_of_birth": [], 
+    "SF13_ENG_024:per:date_of_death": [], 
+    "SF13_ENG_024:per:employee_or_member_of": [], 
+    "SF13_ENG_024:per:origin": [], 
+    "SF13_ENG_024:per:other_family": [], 
+    "SF13_ENG_024:per:parents": [], 
+    "SF13_ENG_024:per:religion": [], 
+    "SF13_ENG_024:per:schools_attended": [], 
+    "SF13_ENG_024:per:siblings": [], 
+    "SF13_ENG_024:per:spouse": [], 
+    "SF13_ENG_024:per:stateorprovince_of_birth": [], 
+    "SF13_ENG_024:per:stateorprovince_of_death": [], 
+    "SF13_ENG_024:per:statesorprovinces_of_residence": [
+        "texas", 
+        "missouri"
+    ], 
+    "SF13_ENG_024:per:title": [], 
+    "SF13_ENG_025:per:age": [
+        "46", 
+        "45"
+    ], 
+    "SF13_ENG_025:per:alternate_names": [
+        "milkshake murderer"
+    ], 
+    "SF13_ENG_025:per:cause_of_death": [], 
+    "SF13_ENG_025:per:charges": [
+        "murder", 
+        "milkshake murder", 
+        "killing"
+    ], 
+    "SF13_ENG_025:per:children": [], 
+    "SF13_ENG_025:per:cities_of_residence": [
+        "hong kong", 
+        "minneapolis", 
+        "adrian"
+    ], 
+    "SF13_ENG_025:per:city_of_birth": [
+        "adrian"
+    ], 
+    "SF13_ENG_025:per:city_of_death": [], 
+    "SF13_ENG_025:per:countries_of_residence": [
+        "u.s."
+    ], 
+    "SF13_ENG_025:per:country_of_birth": [], 
+    "SF13_ENG_025:per:country_of_death": [], 
+    "SF13_ENG_025:per:date_of_birth": [], 
+    "SF13_ENG_025:per:date_of_death": [], 
+    "SF13_ENG_025:per:employee_or_member_of": [], 
+    "SF13_ENG_025:per:origin": [
+        "american"
+    ], 
+    "SF13_ENG_025:per:other_family": [
+        "jane kissel clayton", 
+        "andrew kissel"
+    ], 
+    "SF13_ENG_025:per:parents": [
+        "ira keeshin", 
+        "jean mcglothlin", 
+        "jean mcgothlin"
+    ], 
+    "SF13_ENG_025:per:religion": [], 
+    "SF13_ENG_025:per:schools_attended": [], 
+    "SF13_ENG_025:per:siblings": [
+        "brooks keeshin"
+    ], 
+    "SF13_ENG_025:per:spouse": [
+        "robert", 
+        "robert kissel"
+    ], 
+    "SF13_ENG_025:per:stateorprovince_of_birth": [
+        "michigan"
+    ], 
+    "SF13_ENG_025:per:stateorprovince_of_death": [], 
+    "SF13_ENG_025:per:statesorprovinces_of_residence": [
+        "michigan", 
+        "vermont"
+    ], 
+    "SF13_ENG_025:per:title": [], 
+    "SF13_ENG_026:per:alternate_names": [], 
+    "SF13_ENG_026:per:cause_of_death": [
+        "lung cancer"
+    ], 
+    "SF13_ENG_026:per:charges": [], 
+    "SF13_ENG_026:per:children": [
+        "theo", 
+        "ophelia", 
+        "lucy", 
+        "olivia", 
+        "tessa dahl"
+    ], 
+    "SF13_ENG_026:per:cities_of_residence": [
+        "edgartown", 
+        "knoxville", 
+        "edgarton", 
+        "manhattan"
+    ], 
+    "SF13_ENG_026:per:city_of_death": [
+        "edgartown", 
+        "edgarton"
+    ], 
+    "SF13_ENG_026:per:countries_of_residence": [
+        "us"
+    ], 
+    "SF13_ENG_026:per:country_of_death": [
+        "us"
+    ], 
+    "SF13_ENG_026:per:date_of_death": [
+        "2010-08-08"
+    ], 
+    "SF13_ENG_026:per:employee_or_member_of": [
+        "warner bros.", 
+        "bbc"
+    ], 
+    "SF13_ENG_026:per:origin": [
+        "u.s.", 
+        "us"
+    ], 
+    "SF13_ENG_026:per:other_family": [
+        "sophie dahl"
+    ], 
+    "SF13_ENG_026:per:parents": [], 
+    "SF13_ENG_026:per:religion": [], 
+    "SF13_ENG_026:per:schools_attended": [
+        "knoxville high school", 
+        "northwestern university"
+    ], 
+    "SF13_ENG_026:per:siblings": [
+        "margaret ann vandenoord"
+    ], 
+    "SF13_ENG_026:per:spouse": [], 
+    "SF13_ENG_026:per:stateorprovince_of_death": [
+        "massachusetts", 
+        "mass."
+    ], 
+    "SF13_ENG_026:per:statesorprovinces_of_residence": [
+        "tenn.", 
+        "tennessee", 
+        "massachusetts", 
+        "new york", 
+        "mass."
+    ], 
+    "SF13_ENG_026:per:title": [
+        "star", 
+        "stage actress", 
+        "actress"
+    ], 
+    "SF13_ENG_027:per:age": [
+        "59"
+    ], 
+    "SF13_ENG_027:per:alternate_names": [], 
+    "SF13_ENG_027:per:cause_of_death": [
+        "lung cancer", 
+        "cancer"
+    ], 
+    "SF13_ENG_027:per:charges": [], 
+    "SF13_ENG_027:per:children": [
+        "amar al-hakim", 
+        "ammar", 
+        "ammar abdul aziz al-hakim", 
+        "mohsen hakim", 
+        "ammar al-hakim", 
+        "ammar hakim"
+    ], 
+    "SF13_ENG_027:per:cities_of_residence": [], 
+    "SF13_ENG_027:per:city_of_death": [
+        "tehran"
+    ], 
+    "SF13_ENG_027:per:countries_of_residence": [
+        "iraqi", 
+        "iran", 
+        "iraq"
+    ], 
+    "SF13_ENG_027:per:country_of_death": [
+        "iran"
+    ], 
+    "SF13_ENG_027:per:date_of_death": [
+        "2009-08-26"
+    ], 
+    "SF13_ENG_027:per:employee_or_member_of": [], 
+    "SF13_ENG_027:per:origin": [
+        "iraqi", 
+        "iraq"
+    ], 
+    "SF13_ENG_027:per:other_family": [], 
+    "SF13_ENG_027:per:parents": [
+        "mohsen al-hakim"
+    ], 
+    "SF13_ENG_027:per:schools_attended": [], 
+    "SF13_ENG_027:per:siblings": [
+        "ayatollah mohammed baqr al", 
+        "mohammed baqr", 
+        "mohammed baqir al-hakim", 
+        "mohammed bakr al-hakim", 
+        "ayatollah mohammed baqir al-hakim"
+    ], 
+    "SF13_ENG_027:per:spouse": [], 
+    "SF13_ENG_027:per:stateorprovince_of_birth": [], 
+    "SF13_ENG_027:per:stateorprovince_of_death": [
+        "tehran"
+    ], 
+    "SF13_ENG_027:per:statesorprovinces_of_residence": [
+        "najaf"
+    ], 
+    "SF13_ENG_027:per:title": [
+        "cleric", 
+        "politician", 
+        "founder", 
+        "theologian", 
+        "chairman", 
+        "president", 
+        "his eminence"
+    ], 
+    "SF13_ENG_028:per:alternate_names": [], 
+    "SF13_ENG_028:per:cause_of_death": [
+        "hypertension", 
+        "heart disease", 
+        "heart attack"
+    ], 
+    "SF13_ENG_028:per:charges": [], 
+    "SF13_ENG_028:per:children": [
+        "billy mays jr.", 
+        "elizabeth", 
+        "billy mays iii"
+    ], 
+    "SF13_ENG_028:per:cities_of_residence": [
+        "pittsburgh", 
+        "tampa"
+    ], 
+    "SF13_ENG_028:per:city_of_death": [
+        "tampa"
+    ], 
+    "SF13_ENG_028:per:countries_of_residence": [], 
+    "SF13_ENG_028:per:country_of_birth": [], 
+    "SF13_ENG_028:per:country_of_death": [], 
+    "SF13_ENG_028:per:date_of_death": [
+        "2009-06-xx", 
+        "2009-06-28"
+    ], 
+    "SF13_ENG_028:per:employee_or_member_of": [
+        "media enterprise", 
+        "mays promotions inc.", 
+        "mays promotions inc", 
+        "media enterprises", 
+        "discovery channel", 
+        "church & dwight"
+    ], 
+    "SF13_ENG_028:per:origin": [
+        "american"
+    ], 
+    "SF13_ENG_028:per:other_family": [], 
+    "SF13_ENG_028:per:parents": [], 
+    "SF13_ENG_028:per:religion": [], 
+    "SF13_ENG_028:per:schools_attended": [], 
+    "SF13_ENG_028:per:siblings": [], 
+    "SF13_ENG_028:per:spouse": [], 
+    "SF13_ENG_028:per:stateorprovince_of_death": [
+        "fla.", 
+        "florida"
+    ], 
+    "SF13_ENG_028:per:statesorprovinces_of_residence": [
+        "florida"
+    ], 
+    "SF13_ENG_028:per:title": [], 
+    "SF13_ENG_029:per:alternate_names": [
+        "laurent patrick fignon", 
+        "the professor"
+    ], 
+    "SF13_ENG_029:per:cause_of_death": [
+        "cancer"
+    ], 
+    "SF13_ENG_029:per:children": [
+        "tiphaine", 
+        "jeremy"
+    ], 
+    "SF13_ENG_029:per:cities_of_residence": [
+        "paris"
+    ], 
+    "SF13_ENG_029:per:city_of_birth": [
+        "paris"
+    ], 
+    "SF13_ENG_029:per:city_of_death": [
+        "paris"
+    ], 
+    "SF13_ENG_029:per:countries_of_residence": [], 
+    "SF13_ENG_029:per:country_of_birth": [
+        "france"
+    ], 
+    "SF13_ENG_029:per:country_of_death": [], 
+    "SF13_ENG_029:per:date_of_death": [
+        "2010-08-31"
+    ], 
+    "SF13_ENG_029:per:employee_or_member_of": [
+        "france 2 network", 
+        "france television", 
+        "renault", 
+        "army", 
+        "france 2"
+    ], 
+    "SF13_ENG_029:per:origin": [
+        "frenchman", 
+        "french", 
+        "france"
+    ], 
+    "SF13_ENG_029:per:other_family": [], 
+    "SF13_ENG_029:per:parents": [], 
+    "SF13_ENG_029:per:religion": [], 
+    "SF13_ENG_029:per:schools_attended": [
+        "university of villetaneuse"
+    ], 
+    "SF13_ENG_029:per:siblings": [], 
+    "SF13_ENG_029:per:spouse": [
+        "valerie fignon"
+    ], 
+    "SF13_ENG_029:per:stateorprovince_of_birth": [], 
+    "SF13_ENG_029:per:stateorprovince_of_death": [], 
+    "SF13_ENG_029:per:statesorprovinces_of_residence": [], 
+    "SF13_ENG_029:per:title": [], 
+    "SF13_ENG_030:per:alternate_names": [
+        "captain hook", 
+        "george lee anderson"
+    ], 
+    "SF13_ENG_030:per:cause_of_death": [
+        "dementia", 
+        "complications", 
+        "complications from dementia"
+    ], 
+    "SF13_ENG_030:per:charges": [], 
+    "SF13_ENG_030:per:children": [
+        "lee", 
+        "shirlee englebrecht", 
+        "albert", 
+        "shirley englebrecht", 
+        "albert anderson", 
+        "lee anderson"
+    ], 
+    "SF13_ENG_030:per:cities_of_residence": [
+        "thousand oaks", 
+        "los angeles", 
+        "bridgewater"
+    ], 
+    "SF13_ENG_030:per:city_of_death": [
+        "thousand oaks"
+    ], 
+    "SF13_ENG_030:per:countries_of_residence": [], 
+    "SF13_ENG_030:per:country_of_birth": [], 
+    "SF13_ENG_030:per:country_of_death": [], 
+    "SF13_ENG_030:per:date_of_death": [
+        "2010-11-04", 
+        "thursday", 
+        "2010-11-xx", 
+        "nov 4 , 2010", 
+        "xxxx-11-xx"
+    ], 
+    "SF13_ENG_030:per:employee_or_member_of": [], 
+    "SF13_ENG_030:per:origin": [], 
+    "SF13_ENG_030:per:other_family": [], 
+    "SF13_ENG_030:per:parents": [
+        "leroy"
+    ], 
+    "SF13_ENG_030:per:religion": [], 
+    "SF13_ENG_030:per:schools_attended": [], 
+    "SF13_ENG_030:per:siblings": [], 
+    "SF13_ENG_030:per:spouse": [
+        "carol anderson", 
+        "carol"
+    ], 
+    "SF13_ENG_030:per:stateorprovince_of_death": [
+        "california"
+    ], 
+    "SF13_ENG_030:per:statesorprovinces_of_residence": [
+        "california"
+    ], 
+    "SF13_ENG_030:per:title": [], 
+    "SF13_ENG_031:per:alternate_names": [], 
+    "SF13_ENG_031:per:cause_of_death": [
+        "pneumonia", 
+        "complications of pneumonia"
+    ], 
+    "SF13_ENG_031:per:charges": [], 
+    "SF13_ENG_031:per:children": [], 
+    "SF13_ENG_031:per:cities_of_residence": [
+        "tulsa"
+    ], 
+    "SF13_ENG_031:per:city_of_death": [
+        "santa monica"
+    ], 
+    "SF13_ENG_031:per:countries_of_residence": [
+        "us"
+    ], 
+    "SF13_ENG_031:per:country_of_birth": [], 
+    "SF13_ENG_031:per:country_of_death": [], 
+    "SF13_ENG_031:per:date_of_death": [
+        "2010-12-15"
+    ], 
+    "SF13_ENG_031:per:employee_or_member_of": [
+        "coast guard", 
+        "20th century fox"
+    ], 
+    "SF13_ENG_031:per:origin": [], 
+    "SF13_ENG_031:per:other_family": [], 
+    "SF13_ENG_031:per:parents": [
+        "lillian", 
+        "lillian mcedwards", 
+        "jack mcedwards"
+    ], 
+    "SF13_ENG_031:per:religion": [], 
+    "SF13_ENG_031:per:schools_attended": [], 
+    "SF13_ENG_031:per:siblings": [], 
+    "SF13_ENG_031:per:spouse": [], 
+    "SF13_ENG_031:per:stateorprovince_of_death": [
+        "calif.", 
+        "california"
+    ], 
+    "SF13_ENG_031:per:statesorprovinces_of_residence": [], 
+    "SF13_ENG_031:per:title": [
+        "producer", 
+        "writer", 
+        "actor", 
+        "filmmaker", 
+        "director", 
+        "movie director", 
+        "writing partner", 
+        "screenwriter", 
+        "painter"
+    ], 
+    "SF13_ENG_032:per:age": [
+        "87"
+    ], 
+    "SF13_ENG_032:per:alternate_names": [], 
+    "SF13_ENG_032:per:cause_of_death": [
+        "heart failure", 
+        "heart attack", 
+        "natural causes"
+    ], 
+    "SF13_ENG_032:per:charges": [], 
+    "SF13_ENG_032:per:children": [], 
+    "SF13_ENG_032:per:cities_of_residence": [
+        "seoul"
+    ], 
+    "SF13_ENG_032:per:city_of_birth": [], 
+    "SF13_ENG_032:per:city_of_death": [
+        "seoul"
+    ], 
+    "SF13_ENG_032:per:countries_of_residence": [
+        "north korea", 
+        "south korea"
+    ], 
+    "SF13_ENG_032:per:country_of_birth": [], 
+    "SF13_ENG_032:per:country_of_death": [
+        "south korea"
+    ], 
+    "SF13_ENG_032:per:date_of_birth": [], 
+    "SF13_ENG_032:per:date_of_death": [
+        "2010-10-10"
+    ], 
+    "SF13_ENG_032:per:employee_or_member_of": [
+        "communist party", 
+        "workers party", 
+        "national defense commission", 
+        "workers ' party", 
+        "north korea", 
+        "workers' party", 
+        "supreme people's assembly", 
+        "worker' party", 
+        "north korean workers' party"
+    ], 
+    "SF13_ENG_032:per:origin": [
+        "north korean"
+    ], 
+    "SF13_ENG_032:per:other_family": [], 
+    "SF13_ENG_032:per:parents": [], 
+    "SF13_ENG_032:per:religion": [], 
+    "SF13_ENG_032:per:schools_attended": [
+        "kim il sung university", 
+        "moscow university"
+    ], 
+    "SF13_ENG_032:per:siblings": [], 
+    "SF13_ENG_032:per:spouse": [], 
+    "SF13_ENG_032:per:stateorprovince_of_birth": [], 
+    "SF13_ENG_032:per:stateorprovince_of_death": [], 
+    "SF13_ENG_032:per:statesorprovinces_of_residence": [], 
+    "SF13_ENG_032:per:title": [
+        "tutor", 
+        "chairman", 
+        "secretary"
+    ], 
+    "SF13_ENG_033:per:alternate_names": [], 
+    "SF13_ENG_033:per:cause_of_death": [
+        "cardiac arrest", 
+        "heart failure"
+    ], 
+    "SF13_ENG_033:per:children": [], 
+    "SF13_ENG_033:per:cities_of_residence": [], 
+    "SF13_ENG_033:per:city_of_death": [
+        "moscow"
+    ], 
+    "SF13_ENG_033:per:countries_of_residence": [
+        "russian"
+    ], 
+    "SF13_ENG_033:per:country_of_death": [], 
+    "SF13_ENG_033:per:date_of_death": [
+        "2009-11-08"
+    ], 
+    "SF13_ENG_033:per:employee_or_member_of": [], 
+    "SF13_ENG_033:per:origin": [], 
+    "SF13_ENG_033:per:other_family": [], 
+    "SF13_ENG_033:per:parents": [], 
+    "SF13_ENG_033:per:schools_attended": [], 
+    "SF13_ENG_033:per:siblings": [], 
+    "SF13_ENG_033:per:spouse": [
+        "olga zamsha"
+    ], 
+    "SF13_ENG_033:per:stateorprovince_of_birth": [], 
+    "SF13_ENG_033:per:stateorprovince_of_death": [], 
+    "SF13_ENG_033:per:statesorprovinces_of_residence": [], 
+    "SF13_ENG_033:per:title": [
+        "astrophysicist", 
+        "physicist", 
+        "deputy"
+    ], 
+    "SF13_ENG_034:per:age": [
+        "68"
+    ], 
+    "SF13_ENG_034:per:alternate_names": [
+        "robert j. frankel", 
+        "robert jules frankel"
+    ], 
+    "SF13_ENG_034:per:cause_of_death": [
+        "lymphoma", 
+        "leukemia", 
+        "cancer"
+    ], 
+    "SF13_ENG_034:per:children": [
+        "bethenny frankel"
+    ], 
+    "SF13_ENG_034:per:cities_of_residence": [
+        "new york", 
+        "los angeles"
+    ], 
+    "SF13_ENG_034:per:city_of_birth": [], 
+    "SF13_ENG_034:per:city_of_death": [], 
+    "SF13_ENG_034:per:countries_of_residence": [], 
+    "SF13_ENG_034:per:country_of_birth": [], 
+    "SF13_ENG_034:per:country_of_death": [], 
+    "SF13_ENG_034:per:date_of_birth": [
+        "1941-07-09"
+    ], 
+    "SF13_ENG_034:per:date_of_death": [
+        "2009-11-16"
+    ], 
+    "SF13_ENG_034:per:employee_or_member_of": [
+        "hall of fame", 
+        "racing hall of fame"
+    ], 
+    "SF13_ENG_034:per:origin": [], 
+    "SF13_ENG_034:per:other_family": [], 
+    "SF13_ENG_034:per:parents": [], 
+    "SF13_ENG_034:per:religion": [], 
+    "SF13_ENG_034:per:schools_attended": [], 
+    "SF13_ENG_034:per:siblings": [], 
+    "SF13_ENG_034:per:spouse": [
+        "bonita boniface"
+    ], 
+    "SF13_ENG_034:per:stateorprovince_of_birth": [
+        "new york", 
+        "n.y."
+    ], 
+    "SF13_ENG_034:per:stateorprovince_of_death": [
+        "california"
+    ], 
+    "SF13_ENG_034:per:statesorprovinces_of_residence": [
+        "calif.", 
+        "california"
+    ], 
+    "SF13_ENG_034:per:title": [
+        "trainer", 
+        "owner", 
+        "racehorse trainer", 
+        "horse trainer"
+    ], 
+    "SF13_ENG_035:per:age": [
+        "59", 
+        "66", 
+        "67"
+    ], 
+    "SF13_ENG_035:per:alternate_names": [], 
+    "SF13_ENG_035:per:cause_of_death": [
+        "plane crash", 
+        "crash", 
+        "air crash"
+    ], 
+    "SF13_ENG_035:per:children": [
+        "marta"
+    ], 
+    "SF13_ENG_035:per:cities_of_residence": [], 
+    "SF13_ENG_035:per:city_of_birth": [], 
+    "SF13_ENG_035:per:city_of_death": [
+        "smolensk"
+    ], 
+    "SF13_ENG_035:per:countries_of_residence": [
+        "polish", 
+        "poland"
+    ], 
+    "SF13_ENG_035:per:country_of_birth": [], 
+    "SF13_ENG_035:per:country_of_death": [
+        "russia"
+    ], 
+    "SF13_ENG_035:per:date_of_birth": [], 
+    "SF13_ENG_035:per:date_of_death": [
+        "2010-04-10"
+    ], 
+    "SF13_ENG_035:per:employee_or_member_of": [], 
+    "SF13_ENG_035:per:origin": [
+        "polish"
+    ], 
+    "SF13_ENG_035:per:other_family": [
+        "jaroslaw kaczynski"
+    ], 
+    "SF13_ENG_035:per:parents": [], 
+    "SF13_ENG_035:per:religion": [], 
+    "SF13_ENG_035:per:schools_attended": [], 
+    "SF13_ENG_035:per:siblings": [], 
+    "SF13_ENG_035:per:spouse": [
+        "lech kaczysnki", 
+        "lech kaczynski"
+    ], 
+    "SF13_ENG_035:per:stateorprovince_of_birth": [], 
+    "SF13_ENG_035:per:stateorprovince_of_death": [], 
+    "SF13_ENG_035:per:statesorprovinces_of_residence": [], 
+    "SF13_ENG_035:per:title": [
+        "translator", 
+        "economist", 
+        "first lady"
+    ], 
+    "SF13_ENG_036:per:age": [
+        "86", 
+        "87", 
+        "84", 
+        "85"
+    ], 
+    "SF13_ENG_036:per:alternate_names": [
+        "g.p. koirala", 
+        "gpk"
+    ], 
+    "SF13_ENG_036:per:cause_of_death": [
+        "respiratory disease"
+    ], 
+    "SF13_ENG_036:per:charges": [], 
+    "SF13_ENG_036:per:children": [], 
+    "SF13_ENG_036:per:cities_of_residence": [], 
+    "SF13_ENG_036:per:city_of_birth": [
+        "bihar"
+    ], 
+    "SF13_ENG_036:per:city_of_death": [
+        "kathmandu", 
+        "katmandu"
+    ], 
+    "SF13_ENG_036:per:countries_of_residence": [], 
+    "SF13_ENG_036:per:country_of_death": [
+        "nepal"
+    ], 
+    "SF13_ENG_036:per:date_of_death": [
+        "2010-03-20"
+    ], 
+    "SF13_ENG_036:per:employee_or_member_of": [], 
+    "SF13_ENG_036:per:origin": [], 
+    "SF13_ENG_036:per:other_family": [
+        "shashanka koirala"
+    ], 
+    "SF13_ENG_036:per:parents": [
+        "krishna prasad koirala"
+    ], 
+    "SF13_ENG_036:per:schools_attended": [], 
+    "SF13_ENG_036:per:siblings": [], 
+    "SF13_ENG_036:per:spouse": [], 
+    "SF13_ENG_036:per:stateorprovince_of_death": [], 
+    "SF13_ENG_036:per:statesorprovinces_of_residence": [
+        "bihar"
+    ], 
+    "SF13_ENG_036:per:title": [], 
+    "SF13_ENG_037:per:alternate_names": [], 
+    "SF13_ENG_037:per:cause_of_death": [], 
+    "SF13_ENG_037:per:children": [
+        "cecile maistre", 
+        "jean-yves"
+    ], 
+    "SF13_ENG_037:per:cities_of_residence": [
+        "paris", 
+        "sardent"
+    ], 
+    "SF13_ENG_037:per:city_of_death": [
+        "paris"
+    ], 
+    "SF13_ENG_037:per:countries_of_residence": [
+        "switzerland", 
+        "french", 
+        "france"
+    ], 
+    "SF13_ENG_037:per:country_of_death": [], 
+    "SF13_ENG_037:per:date_of_death": [
+        "2010-09-12"
+    ], 
+    "SF13_ENG_037:per:employee_or_member_of": [
+        "cahiers du cinema"
+    ], 
+    "SF13_ENG_037:per:origin": [
+        "french", 
+        "france"
+    ], 
+    "SF13_ENG_037:per:other_family": [], 
+    "SF13_ENG_037:per:parents": [], 
+    "SF13_ENG_037:per:religion": [], 
+    "SF13_ENG_037:per:schools_attended": [], 
+    "SF13_ENG_037:per:siblings": [], 
+    "SF13_ENG_037:per:spouse": [
+        "agn s goute", 
+        "agn", 
+        "audran", 
+        "aurore pajot", 
+        "agnes marie-madeleine goute", 
+        "stephane audran"
+    ], 
+    "SF13_ENG_037:per:stateorprovince_of_birth": [], 
+    "SF13_ENG_037:per:stateorprovince_of_death": [], 
+    "SF13_ENG_037:per:statesorprovinces_of_residence": [], 
+    "SF13_ENG_037:per:title": [], 
+    "SF13_ENG_038:per:age": [
+        "90", 
+        "80", 
+        "20"
+    ], 
+    "SF13_ENG_038:per:alternate_names": [
+        "mercier philip cunningham"
+    ], 
+    "SF13_ENG_038:per:cause_of_death": [
+        "natural causes"
+    ], 
+    "SF13_ENG_038:per:charges": [], 
+    "SF13_ENG_038:per:children": [], 
+    "SF13_ENG_038:per:cities_of_residence": [
+        "new york"
+    ], 
+    "SF13_ENG_038:per:city_of_birth": [
+        "centralia"
+    ], 
+    "SF13_ENG_038:per:city_of_death": [
+        "new york", 
+        "manhattan", 
+        "new york city"
+    ], 
+    "SF13_ENG_038:per:countries_of_residence": [], 
+    "SF13_ENG_038:per:country_of_birth": [], 
+    "SF13_ENG_038:per:country_of_death": [], 
+    "SF13_ENG_038:per:date_of_birth": [
+        "1919-04-16"
+    ], 
+    "SF13_ENG_038:per:date_of_death": [
+        "2009-07-26", 
+        "xxxx-07-26"
+    ], 
+    "SF13_ENG_038:per:employee_or_member_of": [], 
+    "SF13_ENG_038:per:origin": [
+        "american", 
+        "us"
+    ], 
+    "SF13_ENG_038:per:other_family": [], 
+    "SF13_ENG_038:per:parents": [
+        "clifford cunningham", 
+        "mayme joach"
+    ], 
+    "SF13_ENG_038:per:religion": [], 
+    "SF13_ENG_038:per:schools_attended": [
+        "cornish school", 
+        "cornish school of fine arts", 
+        "black mountain college"
+    ], 
+    "SF13_ENG_038:per:siblings": [
+        "jack cunningham"
+    ], 
+    "SF13_ENG_038:per:spouse": [], 
+    "SF13_ENG_038:per:stateorprovince_of_birth": [], 
+    "SF13_ENG_038:per:stateorprovince_of_death": [], 
+    "SF13_ENG_038:per:statesorprovinces_of_residence": [
+        "new york"
+    ], 
+    "SF13_ENG_038:per:title": [
+        "dancer", 
+        "teacher", 
+        "choreographer"
+    ], 
+    "SF13_ENG_039:per:alternate_names": [], 
+    "SF13_ENG_039:per:cause_of_death": [
+        "cervical cancer", 
+        "cancer"
+    ], 
+    "SF13_ENG_039:per:charges": [], 
+    "SF13_ENG_039:per:children": [], 
+    "SF13_ENG_039:per:cities_of_residence": [], 
+    "SF13_ENG_039:per:city_of_death": [
+        "upshire"
+    ], 
+    "SF13_ENG_039:per:countries_of_residence": [], 
+    "SF13_ENG_039:per:country_of_death": [
+        "england"
+    ], 
+    "SF13_ENG_039:per:date_of_death": [
+        "2009-03-22", 
+        "2009-03-xx"
+    ], 
+    "SF13_ENG_039:per:employee_or_member_of": [], 
+    "SF13_ENG_039:per:origin": [], 
+    "SF13_ENG_039:per:other_family": [], 
+    "SF13_ENG_039:per:parents": [], 
+    "SF13_ENG_039:per:religion": [], 
+    "SF13_ENG_039:per:schools_attended": [], 
+    "SF13_ENG_039:per:siblings": [], 
+    "SF13_ENG_039:per:spouse": [
+        "jack tweed", 
+        "tweed"
+    ], 
+    "SF13_ENG_039:per:stateorprovince_of_birth": [], 
+    "SF13_ENG_039:per:stateorprovince_of_death": [], 
+    "SF13_ENG_039:per:statesorprovinces_of_residence": [], 
+    "SF13_ENG_039:per:title": [], 
+    "SF13_ENG_040:per:alternate_names": [], 
+    "SF13_ENG_040:per:cause_of_death": [
+        "cancer"
+    ], 
+    "SF13_ENG_040:per:charges": [], 
+    "SF13_ENG_040:per:children": [], 
+    "SF13_ENG_040:per:cities_of_residence": [], 
+    "SF13_ENG_040:per:city_of_death": [], 
+    "SF13_ENG_040:per:countries_of_residence": [], 
+    "SF13_ENG_040:per:country_of_birth": [], 
+    "SF13_ENG_040:per:country_of_death": [], 
+    "SF13_ENG_040:per:date_of_death": [
+        "2009-05-xx"
+    ], 
+    "SF13_ENG_040:per:employee_or_member_of": [], 
+    "SF13_ENG_040:per:origin": [], 
+    "SF13_ENG_040:per:other_family": [], 
+    "SF13_ENG_040:per:parents": [], 
+    "SF13_ENG_040:per:religion": [], 
+    "SF13_ENG_040:per:schools_attended": [], 
+    "SF13_ENG_040:per:siblings": [], 
+    "SF13_ENG_040:per:spouse": [], 
+    "SF13_ENG_040:per:stateorprovince_of_death": [], 
+    "SF13_ENG_040:per:statesorprovinces_of_residence": [], 
+    "SF13_ENG_040:per:title": [], 
+    "SF13_ENG_041:per:age": [
+        "80", 
+        "86", 
+        "6"
+    ], 
+    "SF13_ENG_041:per:alternate_names": [
+        "donald shepard hewitt"
+    ], 
+    "SF13_ENG_041:per:cause_of_death": [
+        "pancreatic cancer", 
+        "cancer"
+    ], 
+    "SF13_ENG_041:per:charges": [], 
+    "SF13_ENG_041:per:children": [
+        "jeffrey", 
+        "jilian childers hewitt", 
+        "jilian hewitt", 
+        "lisa cassara", 
+        "steven"
+    ], 
+    "SF13_ENG_041:per:cities_of_residence": [
+        "new rochelle", 
+        "boston"
+    ], 
+    "SF13_ENG_041:per:city_of_birth": [
+        "new york city"
+    ], 
+    "SF13_ENG_041:per:city_of_death": [
+        "bridgehampton"
+    ], 
+    "SF13_ENG_041:per:countries_of_residence": [], 
+    "SF13_ENG_041:per:country_of_birth": [], 
+    "SF13_ENG_041:per:country_of_death": [], 
+    "SF13_ENG_041:per:date_of_birth": [
+        "1922-12-14"
+    ], 
+    "SF13_ENG_041:per:date_of_death": [
+        "2009-08-19"
+    ], 
+    "SF13_ENG_041:per:employee_or_member_of": [
+        "acme newspictures", 
+        "merchant marines", 
+        "cbs news", 
+        "cbs", 
+        "new york herald tribune"
+    ], 
+    "SF13_ENG_041:per:origin": [], 
+    "SF13_ENG_041:per:other_family": [], 
+    "SF13_ENG_041:per:parents": [], 
+    "SF13_ENG_041:per:religion": [], 
+    "SF13_ENG_041:per:schools_attended": [
+        "new york university", 
+        "merchant marine academy"
+    ], 
+    "SF13_ENG_041:per:siblings": [], 
+    "SF13_ENG_041:per:spouse": [
+        "mary weaver", 
+        "frankie childers", 
+        "marilyn berger", 
+        "marilyn"
+    ], 
+    "SF13_ENG_041:per:stateorprovince_of_birth": [
+        "new york"
+    ], 
+    "SF13_ENG_041:per:stateorprovince_of_death": [
+        "new york", 
+        "n.y."
+    ], 
+    "SF13_ENG_041:per:statesorprovinces_of_residence": [
+        "n.y."
+    ], 
+    "SF13_ENG_041:per:title": [
+        "newsman", 
+        "producer", 
+        "reporter", 
+        "consultant", 
+        "executive", 
+        "director", 
+        "associate director", 
+        "executive producer"
+    ], 
+    "SF13_ENG_042:per:age": [
+        "62"
+    ], 
+    "SF13_ENG_042:per:alternate_names": [
+        "david goldenberg"
+    ], 
+    "SF13_ENG_042:per:cause_of_death": [
+        "hanging"
+    ], 
+    "SF13_ENG_042:per:charges": [
+        "assault and battery", 
+        "plotting attacks", 
+        "hiring thugs to assault israeli media executives", 
+        "conspiracy to commit a crime", 
+        "aggravated assault", 
+        "obstruction of justice", 
+        "extortion"
+    ], 
+    "SF13_ENG_042:per:children": [
+        "daniel"
+    ], 
+    "SF13_ENG_042:per:cities_of_residence": [
+        "tel aviv"
+    ], 
+    "SF13_ENG_042:per:city_of_birth": [], 
+    "SF13_ENG_042:per:city_of_death": [], 
+    "SF13_ENG_042:per:countries_of_residence": [
+        "israel", 
+        "israeli"
+    ], 
+    "SF13_ENG_042:per:country_of_birth": [], 
+    "SF13_ENG_042:per:country_of_death": [], 
+    "SF13_ENG_042:per:date_of_birth": [], 
+    "SF13_ENG_042:per:date_of_death": [
+        "2009-08-20"
+    ], 
+    "SF13_ENG_042:per:employee_or_member_of": [], 
+    "SF13_ENG_042:per:origin": [
+        "israel", 
+        "israeli"
+    ], 
+    "SF13_ENG_042:per:other_family": [], 
+    "SF13_ENG_042:per:parents": [], 
+    "SF13_ENG_042:per:religion": [], 
+    "SF13_ENG_042:per:schools_attended": [], 
+    "SF13_ENG_042:per:siblings": [], 
+    "SF13_ENG_042:per:spouse": [], 
+    "SF13_ENG_042:per:stateorprovince_of_birth": [], 
+    "SF13_ENG_042:per:stateorprovince_of_death": [], 
+    "SF13_ENG_042:per:statesorprovinces_of_residence": [], 
+    "SF13_ENG_042:per:title": [
+        "entertainer", 
+        "tv star", 
+        "variety show star", 
+        "television star"
+    ], 
+    "SF13_ENG_043:per:age": [
+        "68"
+    ], 
+    "SF13_ENG_043:per:alternate_names": [
+        "ellie gaye", 
+        "eleanor louise greenwich"
+    ], 
+    "SF13_ENG_043:per:cause_of_death": [
+        "heart attack"
+    ], 
+    "SF13_ENG_043:per:charges": [], 
+    "SF13_ENG_043:per:children": [], 
+    "SF13_ENG_043:per:cities_of_residence": [], 
+    "SF13_ENG_043:per:city_of_birth": [], 
+    "SF13_ENG_043:per:city_of_death": [
+        "manhattan"
+    ], 
+    "SF13_ENG_043:per:countries_of_residence": [
+        "america"
+    ], 
+    "SF13_ENG_043:per:country_of_birth": [], 
+    "SF13_ENG_043:per:country_of_death": [], 
+    "SF13_ENG_043:per:date_of_birth": [
+        "1940-10-23"
+    ], 
+    "SF13_ENG_043:per:date_of_death": [
+        "2009-08-26"
+    ], 
+    "SF13_ENG_043:per:employee_or_member_of": [
+        "songwriters hall of fame", 
+        "the jivettes"
+    ], 
+    "SF13_ENG_043:per:origin": [
+        "american"
+    ], 
+    "SF13_ENG_043:per:other_family": [
+        "jessica weiner"
+    ], 
+    "SF13_ENG_043:per:parents": [
+        "william"
+    ], 
+    "SF13_ENG_043:per:religion": [], 
+    "SF13_ENG_043:per:schools_attended": [
+        "hofstra university", 
+        "hofstra", 
+        "queens college"
+    ], 
+    "SF13_ENG_043:per:siblings": [
+        "laura weiner"
+    ], 
+    "SF13_ENG_043:per:spouse": [
+        "jeff barry"
+    ], 
+    "SF13_ENG_043:per:stateorprovince_of_birth": [], 
+    "SF13_ENG_043:per:stateorprovince_of_death": [
+        "new york"
+    ], 
+    "SF13_ENG_043:per:statesorprovinces_of_residence": [], 
+    "SF13_ENG_043:per:title": [
+        "singer", 
+        "performer", 
+        "melody writer", 
+        "producer", 
+        "songwriter", 
+        "writer", 
+        "song doctor", 
+        "arranger", 
+        "record producer"
+    ], 
+    "SF13_ENG_044:per:age": [
+        "83"
+    ], 
+    "SF13_ENG_044:per:alternate_names": [
+        "nick", 
+        "dominick john dunne"
+    ], 
+    "SF13_ENG_044:per:cause_of_death": [
+        "bladder cancer"
+    ], 
+    "SF13_ENG_044:per:charges": [
+        "slander"
+    ], 
+    "SF13_ENG_044:per:children": [
+        "griffin", 
+        "dominique", 
+        "alexander dunne", 
+        "griffin dunne", 
+        "dominique dunne", 
+        "alexander"
+    ], 
+    "SF13_ENG_044:per:cities_of_residence": [
+        "new york city", 
+        "los angeles"
+    ], 
+    "SF13_ENG_044:per:city_of_birth": [
+        "hartford"
+    ], 
+    "SF13_ENG_044:per:city_of_death": [
+        "new york city", 
+        "new york"
+    ], 
+    "SF13_ENG_044:per:countries_of_residence": [], 
+    "SF13_ENG_044:per:country_of_birth": [], 
+    "SF13_ENG_044:per:country_of_death": [], 
+    "SF13_ENG_044:per:date_of_birth": [
+        "1925-xx-xx", 
+        "1925-10-29"
+    ], 
+    "SF13_ENG_044:per:date_of_death": [
+        "2009-08-26"
+    ], 
+    "SF13_ENG_044:per:employee_or_member_of": [
+        "cbs", 
+        "abc", 
+        "vanity fair", 
+        "army"
+    ], 
+    "SF13_ENG_044:per:origin": [
+        "irish"
+    ], 
+    "SF13_ENG_044:per:other_family": [
+        "joan didion", 
+        "hannah"
+    ], 
+    "SF13_ENG_044:per:parents": [
+        "richard"
+    ], 
+    "SF13_ENG_044:per:religion": [
+        "catholic", 
+        "roman catholic"
+    ], 
+    "SF13_ENG_044:per:schools_attended": [
+        "williams college"
+    ], 
+    "SF13_ENG_044:per:siblings": [
+        "stephen", 
+        "john gregory dunne"
+    ], 
+    "SF13_ENG_044:per:spouse": [
+        "ellen griffin dunne", 
+        "ellen \"lenny\" griffin dunne"
+    ], 
+    "SF13_ENG_044:per:stateorprovince_of_birth": [
+        "connecticut", 
+        "conn."
+    ], 
+    "SF13_ENG_044:per:stateorprovince_of_death": [
+        "new york"
+    ], 
+    "SF13_ENG_044:per:statesorprovinces_of_residence": [
+        "new york"
+    ], 
+    "SF13_ENG_044:per:title": [
+        "correspondent", 
+        "author", 
+        "reporter", 
+        "film producer", 
+        "writer", 
+        "movie producer", 
+        "celebrity journalist", 
+        "host", 
+        "journalist", 
+        "stage manager", 
+        "television personality", 
+        "novelist", 
+        "executive producer"
+    ], 
+    "SF13_ENG_045:per:alternate_names": [], 
+    "SF13_ENG_045:per:cause_of_death": [
+        "drug overdose"
+    ], 
+    "SF13_ENG_045:per:children": [], 
+    "SF13_ENG_045:per:cities_of_residence": [
+        "new york city", 
+        "beverly hills", 
+        "philadelphia", 
+        "los angeles"
+    ], 
+    "SF13_ENG_045:per:city_of_death": [
+        "new york city"
+    ], 
+    "SF13_ENG_045:per:countries_of_residence": [], 
+    "SF13_ENG_045:per:country_of_birth": [], 
+    "SF13_ENG_045:per:country_of_death": [], 
+    "SF13_ENG_045:per:date_of_death": [
+        "2009-08-28", 
+        "2009-08-xx"
+    ], 
+    "SF13_ENG_045:per:employee_or_member_of": [], 
+    "SF13_ENG_045:per:origin": [], 
+    "SF13_ENG_045:per:other_family": [], 
+    "SF13_ENG_045:per:parents": [
+        "andrea gross"
+    ], 
+    "SF13_ENG_045:per:religion": [], 
+    "SF13_ENG_045:per:schools_attended": [], 
+    "SF13_ENG_045:per:siblings": [], 
+    "SF13_ENG_045:per:spouse": [], 
+    "SF13_ENG_045:per:stateorprovince_of_death": [
+        "new york"
+    ], 
+    "SF13_ENG_045:per:statesorprovinces_of_residence": [], 
+    "SF13_ENG_045:per:title": [
+        "disc jockey", 
+        "dj", 
+        "host", 
+        "turntablist"
+    ], 
+    "SF13_ENG_046:per:alternate_names": [
+        "dandy don", 
+        "joseph donald meredith"
+    ], 
+    "SF13_ENG_046:per:cause_of_death": [
+        "brain hemorrhage"
+    ], 
+    "SF13_ENG_046:per:charges": [], 
+    "SF13_ENG_046:per:children": [], 
+    "SF13_ENG_046:per:cities_of_residence": [
+        "santa fe", 
+        "mount vernon"
+    ], 
+    "SF13_ENG_046:per:city_of_death": [
+        "santa fe"
+    ], 
+    "SF13_ENG_046:per:countries_of_residence": [], 
+    "SF13_ENG_046:per:country_of_death": [], 
+    "SF13_ENG_046:per:date_of_death": [
+        "2010-12-05", 
+        "december 5"
+    ], 
+    "SF13_ENG_046:per:employee_or_member_of": [], 
+    "SF13_ENG_046:per:origin": [], 
+    "SF13_ENG_046:per:other_family": [], 
+    "SF13_ENG_046:per:parents": [
+        "hazel", 
+        "jeff"
+    ], 
+    "SF13_ENG_046:per:religion": [
+        "baptist"
+    ], 
+    "SF13_ENG_046:per:schools_attended": [], 
+    "SF13_ENG_046:per:siblings": [
+        "jack"
+    ], 
+    "SF13_ENG_046:per:spouse": [
+        "susan"
+    ], 
+    "SF13_ENG_046:per:stateorprovince_of_birth": [], 
+    "SF13_ENG_046:per:stateorprovince_of_death": [
+        "n.m.", 
+        "new mexico"
+    ], 
+    "SF13_ENG_046:per:statesorprovinces_of_residence": [
+        "texas"
+    ], 
+    "SF13_ENG_046:per:title": [], 
+    "SF13_ENG_047:per:age": [
+        "42"
+    ], 
+    "SF13_ENG_047:per:alternate_names": [
+        "orlando zapata tamayo"
+    ], 
+    "SF13_ENG_047:per:cause_of_death": [
+        "hunger strike", 
+        "starved to death"
+    ], 
+    "SF13_ENG_047:per:charges": [], 
+    "SF13_ENG_047:per:children": [], 
+    "SF13_ENG_047:per:cities_of_residence": [
+        "banes"
+    ], 
+    "SF13_ENG_047:per:city_of_birth": [], 
+    "SF13_ENG_047:per:city_of_death": [
+        "havana"
+    ], 
+    "SF13_ENG_047:per:countries_of_residence": [
+        "cuba"
+    ], 
+    "SF13_ENG_047:per:country_of_birth": [], 
+    "SF13_ENG_047:per:country_of_death": [], 
+    "SF13_ENG_047:per:date_of_birth": [], 
+    "SF13_ENG_047:per:date_of_death": [
+        "2010-02-23", 
+        "2010-02-xx", 
+        "2010-xx-xx", 
+        "2012-02-xx"
+    ], 
+    "SF13_ENG_047:per:employee_or_member_of": [], 
+    "SF13_ENG_047:per:origin": [
+        "cuban", 
+        "cuba"
+    ], 
+    "SF13_ENG_047:per:other_family": [], 
+    "SF13_ENG_047:per:parents": [
+        "reina luisa tamayo", 
+        "reyna luisa tamayo", 
+        "reina tamayo"
+    ], 
+    "SF13_ENG_047:per:religion": [], 
+    "SF13_ENG_047:per:schools_attended": [], 
+    "SF13_ENG_047:per:siblings": [], 
+    "SF13_ENG_047:per:spouse": [], 
+    "SF13_ENG_047:per:stateorprovince_of_birth": [], 
+    "SF13_ENG_047:per:stateorprovince_of_death": [
+        "havana"
+    ], 
+    "SF13_ENG_047:per:statesorprovinces_of_residence": [
+        "camaguey"
+    ], 
+    "SF13_ENG_047:per:title": [
+        "laborer", 
+        "plumber", 
+        "construction worker", 
+        "carpenter"
+    ], 
+    "SF13_ENG_048:per:age": [
+        "71"
+    ], 
+    "SF13_ENG_048:per:alternate_names": [], 
+    "SF13_ENG_048:per:cause_of_death": [
+        "esophageal cancer", 
+        "cancer"
+    ], 
+    "SF13_ENG_048:per:charges": [], 
+    "SF13_ENG_048:per:children": [
+        "eric steel", 
+        "annie gwathmey"
+    ], 
+    "SF13_ENG_048:per:cities_of_residence": [
+        "charlotte"
+    ], 
+    "SF13_ENG_048:per:city_of_birth": [
+        "charlotte"
+    ], 
+    "SF13_ENG_048:per:city_of_death": [], 
+    "SF13_ENG_048:per:countries_of_residence": [], 
+    "SF13_ENG_048:per:country_of_birth": [], 
+    "SF13_ENG_048:per:country_of_death": [], 
+    "SF13_ENG_048:per:date_of_birth": [
+        "1938-06-19", 
+        "1938-xx-xx"
+    ], 
+    "SF13_ENG_048:per:date_of_death": [
+        "2009-08-10", 
+        "2009-08-03", 
+        "2009-08-xx"
+    ], 
+    "SF13_ENG_048:per:employee_or_member_of": [
+        "new york school", 
+        "new york five"
+    ], 
+    "SF13_ENG_048:per:origin": [], 
+    "SF13_ENG_048:per:other_family": [], 
+    "SF13_ENG_048:per:parents": [
+        "robert gwathmey", 
+        "rosalie"
+    ], 
+    "SF13_ENG_048:per:religion": [], 
+    "SF13_ENG_048:per:schools_attended": [
+        "university of pennsylvania", 
+        "yale university", 
+        "the university of pennsylvania"
+    ], 
+    "SF13_ENG_048:per:siblings": [], 
+    "SF13_ENG_048:per:spouse": [
+        "bette-ann damson", 
+        "emily gwathmey"
+    ], 
+    "SF13_ENG_048:per:stateorprovince_of_birth": [
+        "n.c."
+    ], 
+    "SF13_ENG_048:per:stateorprovince_of_death": [], 
+    "SF13_ENG_048:per:statesorprovinces_of_residence": [
+        "n.c."
+    ], 
+    "SF13_ENG_048:per:title": [
+        "architect"
+    ], 
+    "SF13_ENG_049:per:alternate_names": [
+        "benoit b. mandelbrot"
+    ], 
+    "SF13_ENG_049:per:cause_of_death": [
+        "pancreatic cancer"
+    ], 
+    "SF13_ENG_049:per:charges": [], 
+    "SF13_ENG_049:per:children": [
+        "laurent"
+    ], 
+    "SF13_ENG_049:per:cities_of_residence": [
+        "cambridge"
+    ], 
+    "SF13_ENG_049:per:city_of_death": [
+        "cambridge"
+    ], 
+    "SF13_ENG_049:per:countries_of_residence": [], 
+    "SF13_ENG_049:per:country_of_death": [
+        "us"
+    ], 
+    "SF13_ENG_049:per:date_of_death": [
+        "2010-10-14"
+    ], 
+    "SF13_ENG_049:per:employee_or_member_of": [], 
+    "SF13_ENG_049:per:origin": [], 
+    "SF13_ENG_049:per:other_family": [], 
+    "SF13_ENG_049:per:parents": [], 
+    "SF13_ENG_049:per:religion": [
+        "jewish"
+    ], 
+    "SF13_ENG_049:per:schools_attended": [], 
+    "SF13_ENG_049:per:siblings": [], 
+    "SF13_ENG_049:per:spouse": [
+        "aliette"
+    ], 
+    "SF13_ENG_049:per:stateorprovince_of_birth": [], 
+    "SF13_ENG_049:per:stateorprovince_of_death": [
+        "massachusetts"
+    ], 
+    "SF13_ENG_049:per:statesorprovinces_of_residence": [
+        "massachusetts.", 
+        "massachusetts"
+    ], 
+    "SF13_ENG_049:per:title": [], 
+    "SF13_ENG_050:per:age": [
+        "51"
+    ], 
+    "SF13_ENG_050:per:alternate_names": [], 
+    "SF13_ENG_050:per:cause_of_death": [
+        "breast cancer"
+    ], 
+    "SF13_ENG_050:per:children": [
+        "kim jong un"
+    ], 
+    "SF13_ENG_050:per:cities_of_residence": [], 
+    "SF13_ENG_050:per:city_of_birth": [], 
+    "SF13_ENG_050:per:city_of_death": [], 
+    "SF13_ENG_050:per:countries_of_residence": [
+        "japanese"
+    ], 
+    "SF13_ENG_050:per:country_of_birth": [], 
+    "SF13_ENG_050:per:country_of_death": [], 
+    "SF13_ENG_050:per:date_of_birth": [], 
+    "SF13_ENG_050:per:date_of_death": [
+        "2004-xx-xx"
+    ], 
+    "SF13_ENG_050:per:employee_or_member_of": [], 
+    "SF13_ENG_050:per:origin": [], 
+    "SF13_ENG_050:per:other_family": [], 
+    "SF13_ENG_050:per:parents": [], 
+    "SF13_ENG_050:per:religion": [], 
+    "SF13_ENG_050:per:schools_attended": [], 
+    "SF13_ENG_050:per:siblings": [], 
+    "SF13_ENG_050:per:spouse": [
+        "kim jong-il", 
+        "kim jong il"
+    ], 
+    "SF13_ENG_050:per:stateorprovince_of_birth": [], 
+    "SF13_ENG_050:per:stateorprovince_of_death": [], 
+    "SF13_ENG_050:per:statesorprovinces_of_residence": [], 
+    "SF13_ENG_050:per:title": [
+        "dancer"
+    ], 
+    "SF13_ENG_051:org:alternate_names": [
+        "electoral complaints commission", 
+        "ecc", 
+        "electoral_complaints_commission", 
+        "election complained commission"
+    ], 
+    "SF13_ENG_051:org:city_of_headquarters": [], 
+    "SF13_ENG_051:org:country_of_headquarters": [
+        "afghanistan"
+    ], 
+    "SF13_ENG_051:org:date_dissolved": [], 
+    "SF13_ENG_051:org:date_founded": [], 
+    "SF13_ENG_051:org:founded_by": [], 
+    "SF13_ENG_051:org:member_of": [], 
+    "SF13_ENG_051:org:members": [], 
+    "SF13_ENG_051:org:number_of_employees_members": [
+        "5"
+    ], 
+    "SF13_ENG_051:org:parents": [], 
+    "SF13_ENG_051:org:political_religious_affiliation": [], 
+    "SF13_ENG_051:org:shareholders": [], 
+    "SF13_ENG_051:org:stateorprovince_of_headquarters": [], 
+    "SF13_ENG_051:org:subsidiaries": [], 
+    "SF13_ENG_051:org:top_members_employees": [
+        "ahmad zia rafaat", 
+        "aman tajali", 
+        "ahmad zia rafat", 
+        "mahgul yamam", 
+        "grant kippen"
+    ], 
+    "SF13_ENG_051:org:website": [], 
+    "SF13_ENG_052:org:alternate_names": [], 
+    "SF13_ENG_052:org:city_of_headquarters": [], 
+    "SF13_ENG_052:org:country_of_headquarters": [
+        "spain"
+    ], 
+    "SF13_ENG_052:org:date_dissolved": [], 
+    "SF13_ENG_052:org:founded_by": [], 
+    "SF13_ENG_052:org:member_of": [], 
+    "SF13_ENG_052:org:members": [], 
+    "SF13_ENG_052:org:number_of_employees_members": [
+        "150"
+    ], 
+    "SF13_ENG_052:org:parents": [], 
+    "SF13_ENG_052:org:political_religious_affiliation": [], 
+    "SF13_ENG_052:org:shareholders": [], 
+    "SF13_ENG_052:org:stateorprovince_of_headquarters": [], 
+    "SF13_ENG_052:org:subsidiaries": [
+        "batasuna"
+    ], 
+    "SF13_ENG_052:org:top_members_employees": [], 
+    "SF13_ENG_052:org:website": [], 
+    "SF13_ENG_053:org:alternate_names": [], 
+    "SF13_ENG_053:org:country_of_headquarters": [
+        "united states", 
+        "u.s.", 
+        "america"
+    ], 
+    "SF13_ENG_053:org:date_dissolved": [], 
+    "SF13_ENG_053:org:founded_by": [], 
+    "SF13_ENG_053:org:member_of": [], 
+    "SF13_ENG_053:org:members": [], 
+    "SF13_ENG_053:org:parents": [], 
+    "SF13_ENG_053:org:political_religious_affiliation": [], 
+    "SF13_ENG_053:org:shareholders": [], 
+    "SF13_ENG_053:org:subsidiaries": [
+        "local 7-669", 
+        "local 2604", 
+        "local no. 6992", 
+        "local 1005", 
+        "local 1660", 
+        "local 6500"
+    ], 
+    "SF13_ENG_053:org:top_members_employees": [], 
+    "SF13_ENG_054:org:alternate_names": [
+        "inbs", 
+        "irish nationwide building society", 
+        "irish nationwide"
+    ], 
+    "SF13_ENG_054:org:city_of_headquarters": [
+        "dublin"
+    ], 
+    "SF13_ENG_054:org:country_of_headquarters": [
+        "irish", 
+        "ireland"
+    ], 
+    "SF13_ENG_054:org:date_dissolved": [], 
+    "SF13_ENG_054:org:date_founded": [], 
+    "SF13_ENG_054:org:member_of": [], 
+    "SF13_ENG_054:org:members": [], 
+    "SF13_ENG_054:org:parents": [], 
+    "SF13_ENG_054:org:political_religious_affiliation": [], 
+    "SF13_ENG_054:org:shareholders": [], 
+    "SF13_ENG_054:org:stateorprovince_of_headquarters": [], 
+    "SF13_ENG_054:org:subsidiaries": [], 
+    "SF13_ENG_054:org:top_members_employees": [
+        "michael fingleton", 
+        "gerry mcginn"
+    ], 
+    "SF13_ENG_054:org:website": [
+        "http://www.iniom.com"
+    ], 
+    "SF13_ENG_055:org:alternate_names": [
+        "river road"
+    ], 
+    "SF13_ENG_055:org:city_of_headquarters": [
+        "louisville"
+    ], 
+    "SF13_ENG_055:org:country_of_headquarters": [], 
+    "SF13_ENG_055:org:date_dissolved": [], 
+    "SF13_ENG_055:org:date_founded": [], 
+    "SF13_ENG_055:org:founded_by": [], 
+    "SF13_ENG_055:org:members": [], 
+    "SF13_ENG_055:org:number_of_employees_members": [], 
+    "SF13_ENG_055:org:parents": [
+        "aviva plc"
+    ], 
+    "SF13_ENG_055:org:political_religious_affiliation": [], 
+    "SF13_ENG_055:org:shareholders": [], 
+    "SF13_ENG_055:org:stateorprovince_of_headquarters": [
+        "kentucky"
+    ], 
+    "SF13_ENG_055:org:subsidiaries": [], 
+    "SF13_ENG_055:org:top_members_employees": [
+        "andrew beck"
+    ], 
+    "SF13_ENG_055:org:website": [
+        "http://www.riverroadam.com/", 
+        "www.riverroadam.com", 
+        "http://www.riverroadam.com"
+    ], 
+    "SF13_ENG_056:org:alternate_names": [], 
+    "SF13_ENG_056:org:city_of_headquarters": [], 
+    "SF13_ENG_056:org:country_of_headquarters": [], 
+    "SF13_ENG_056:org:date_dissolved": [], 
+    "SF13_ENG_056:org:date_founded": [], 
+    "SF13_ENG_056:org:founded_by": [], 
+    "SF13_ENG_056:org:member_of": [], 
+    "SF13_ENG_056:org:members": [], 
+    "SF13_ENG_056:org:number_of_employees_members": [], 
+    "SF13_ENG_056:org:parents": [], 
+    "SF13_ENG_056:org:political_religious_affiliation": [], 
+    "SF13_ENG_056:org:stateorprovince_of_headquarters": [
+        "georgia"
+    ], 
+    "SF13_ENG_056:org:subsidiaries": [], 
+    "SF13_ENG_056:org:top_members_employees": [
+        "armond morris", 
+        "don koehler", 
+        "don mcgough"
+    ], 
+    "SF13_ENG_056:org:website": [
+        "http://www.gapeanuts.com"
+    ], 
+    "SF13_ENG_057:org:alternate_names": [
+        "a123 systems", 
+        "a123"
+    ], 
+    "SF13_ENG_057:org:city_of_headquarters": [
+        "watertown"
+    ], 
+    "SF13_ENG_057:org:country_of_headquarters": [], 
+    "SF13_ENG_057:org:date_dissolved": [], 
+    "SF13_ENG_057:org:date_founded": [
+        "2001-xx-xx"
+    ], 
+    "SF13_ENG_057:org:founded_by": [], 
+    "SF13_ENG_057:org:member_of": [], 
+    "SF13_ENG_057:org:members": [], 
+    "SF13_ENG_057:org:number_of_employees_members": [], 
+    "SF13_ENG_057:org:parents": [], 
+    "SF13_ENG_057:org:political_religious_affiliation": [], 
+    "SF13_ENG_057:org:shareholders": [], 
+    "SF13_ENG_057:org:stateorprovince_of_headquarters": [
+        "ma", 
+        "massachusetts"
+    ], 
+    "SF13_ENG_057:org:subsidiaries": [], 
+    "SF13_ENG_057:org:top_members_employees": [
+        "geoff taylor", 
+        "jason forcier", 
+        "deshpande", 
+        "david vieau"
+    ], 
+    "SF13_ENG_057:org:website": [
+        "http://www.a123systems.com", 
+        "www.a123systems.com", 
+        "http://www.a123systems.com/"
+    ], 
+    "SF13_ENG_058:org:alternate_names": [
+        "access", 
+        "access industries holdings"
+    ], 
+    "SF13_ENG_058:org:city_of_headquarters": [
+        "new york"
+    ], 
+    "SF13_ENG_058:org:country_of_headquarters": [], 
+    "SF13_ENG_058:org:date_dissolved": [], 
+    "SF13_ENG_058:org:date_founded": [
+        "1986-xx-xx"
+    ], 
+    "SF13_ENG_058:org:founded_by": [
+        "len blavatnik"
+    ], 
+    "SF13_ENG_058:org:member_of": [], 
+    "SF13_ENG_058:org:members": [], 
+    "SF13_ENG_058:org:number_of_employees_members": [], 
+    "SF13_ENG_058:org:parents": [], 
+    "SF13_ENG_058:org:political_religious_affiliation": [], 
+    "SF13_ENG_058:org:shareholders": [
+        "len blavatnik"
+    ], 
+    "SF13_ENG_058:org:stateorprovince_of_headquarters": [
+        "new york"
+    ], 
+    "SF13_ENG_058:org:subsidiaries": [
+        "lyondellbasell", 
+        "top up tv"
+    ], 
+    "SF13_ENG_058:org:top_members_employees": [
+        "len blavatnik", 
+        "blavatnik"
+    ], 
+    "SF13_ENG_058:org:website": [
+        "www.accessindustries.com", 
+        "http://www.accessindustries.com"
+    ], 
+    "SF13_ENG_059:org:alternate_names": [
+        "british council of mortgage lenders", 
+        "cml"
+    ], 
+    "SF13_ENG_059:org:city_of_headquarters": [], 
+    "SF13_ENG_059:org:country_of_headquarters": [
+        "britain"
+    ], 
+    "SF13_ENG_059:org:date_dissolved": [], 
+    "SF13_ENG_059:org:date_founded": [], 
+    "SF13_ENG_059:org:founded_by": [], 
+    "SF13_ENG_059:org:member_of": [], 
+    "SF13_ENG_059:org:members": [], 
+    "SF13_ENG_059:org:parents": [], 
+    "SF13_ENG_059:org:political_religious_affiliation": [], 
+    "SF13_ENG_059:org:shareholders": [], 
+    "SF13_ENG_059:org:stateorprovince_of_headquarters": [], 
+    "SF13_ENG_059:org:subsidiaries": [], 
+    "SF13_ENG_059:org:top_members_employees": [
+        "bernard clarke", 
+        "bob pannell", 
+        "michael coogan"
+    ], 
+    "SF13_ENG_059:org:website": [
+        "http://www.cml.org.uk"
+    ], 
+    "SF13_ENG_060:org:alternate_names": [
+        "aaas"
+    ], 
+    "SF13_ENG_060:org:city_of_headquarters": [], 
+    "SF13_ENG_060:org:country_of_headquarters": [
+        "united states", 
+        "america"
+    ], 
+    "SF13_ENG_060:org:date_dissolved": [], 
+    "SF13_ENG_060:org:date_founded": [
+        "1848-xx-xx"
+    ], 
+    "SF13_ENG_060:org:founded_by": [], 
+    "SF13_ENG_060:org:member_of": [], 
+    "SF13_ENG_060:org:members": [], 
+    "SF13_ENG_060:org:number_of_employees_members": [], 
+    "SF13_ENG_060:org:parents": [], 
+    "SF13_ENG_060:org:political_religious_affiliation": [], 
+    "SF13_ENG_060:org:shareholders": [], 
+    "SF13_ENG_060:org:stateorprovince_of_headquarters": [
+        "washington"
+    ], 
+    "SF13_ENG_060:org:subsidiaries": [], 
+    "SF13_ENG_060:org:top_members_employees": [
+        "d.s. greenberg", 
+        "mary good", 
+        "emilio quincy daddario", 
+        "alan i. leshner", 
+        "peter agre", 
+        "peter c. agre", 
+        "john p. holdren", 
+        "alan leshner", 
+        "jane lubchenco", 
+        "peter raven"
+    ], 
+    "SF13_ENG_060:org:website": [
+        "http://www.aaas.org"
+    ], 
+    "SF13_ENG_061:org:alternate_names": [
+        "intercontinental", 
+        "ihg", 
+        "intercontinental hotels", 
+        "intercontinental hotels group plc"
+    ], 
+    "SF13_ENG_061:org:date_dissolved": [], 
+    "SF13_ENG_061:org:founded_by": [], 
+    "SF13_ENG_061:org:member_of": [], 
+    "SF13_ENG_061:org:members": [
+        "crowne plaza", 
+        "holiday inn"
+    ], 
+    "SF13_ENG_061:org:number_of_employees_members": [], 
+    "SF13_ENG_061:org:parents": [], 
+    "SF13_ENG_061:org:political_religious_affiliation": [], 
+    "SF13_ENG_061:org:shareholders": [], 
+    "SF13_ENG_061:org:subsidiaries": [], 
+    "SF13_ENG_061:org:top_members_employees": [], 
+    "SF13_ENG_062:org:alternate_names": [
+        "u.s. high speed rail"
+    ], 
+    "SF13_ENG_062:org:city_of_headquarters": [
+        "washington"
+    ], 
+    "SF13_ENG_062:org:country_of_headquarters": [
+        "united states", 
+        "u.s."
+    ], 
+    "SF13_ENG_062:org:date_dissolved": [], 
+    "SF13_ENG_062:org:date_founded": [], 
+    "SF13_ENG_062:org:founded_by": [], 
+    "SF13_ENG_062:org:member_of": [], 
+    "SF13_ENG_062:org:members": [], 
+    "SF13_ENG_062:org:number_of_employees_members": [], 
+    "SF13_ENG_062:org:parents": [], 
+    "SF13_ENG_062:org:political_religious_affiliation": [], 
+    "SF13_ENG_062:org:shareholders": [], 
+    "SF13_ENG_062:org:stateorprovince_of_headquarters": [
+        "washington"
+    ], 
+    "SF13_ENG_062:org:subsidiaries": [], 
+    "SF13_ENG_062:org:top_members_employees": [
+        "andy kunz", 
+        "thomas a. hart"
+    ], 
+    "SF13_ENG_062:org:website": [
+        "http//wwwushsrcom", 
+        "http://www.ushsr.com"
+    ], 
+    "SF13_ENG_063:org:alternate_names": [
+        "bnsf", 
+        "burlington northern santa fe", 
+        "burlington"
+    ], 
+    "SF13_ENG_063:org:city_of_headquarters": [
+        "fort worth"
+    ], 
+    "SF13_ENG_063:org:country_of_headquarters": [
+        "united states", 
+        "u.s.", 
+        "us"
+    ], 
+    "SF13_ENG_063:org:date_dissolved": [], 
+    "SF13_ENG_063:org:date_founded": [], 
+    "SF13_ENG_063:org:founded_by": [], 
+    "SF13_ENG_063:org:member_of": [], 
+    "SF13_ENG_063:org:members": [], 
+    "SF13_ENG_063:org:number_of_employees_members": [], 
+    "SF13_ENG_063:org:parents": [
+        "berkshire", 
+        "berkshire hathaway inc."
+    ], 
+    "SF13_ENG_063:org:political_religious_affiliation": [], 
+    "SF13_ENG_063:org:shareholders": [
+        "warren buffett", 
+        "berkshire hathaway", 
+        "berkshire hathaway inc."
+    ], 
+    "SF13_ENG_063:org:stateorprovince_of_headquarters": [
+        "texas"
+    ], 
+    "SF13_ENG_063:org:subsidiaries": [], 
+    "SF13_ENG_063:org:top_members_employees": [
+        "robert d. krebs", 
+        "matt rose", 
+        "robert d krebs"
+    ], 
+    "SF13_ENG_063:org:website": [
+        "http:\\\\www.bnsf.com", 
+        "http://www.bnsf.com", 
+        "www.bnsf.com"
+    ], 
+    "SF13_ENG_064:org:alternate_names": [
+        "sipri"
+    ], 
+    "SF13_ENG_064:org:city_of_headquarters": [
+        "stockholm"
+    ], 
+    "SF13_ENG_064:org:country_of_headquarters": [
+        "sweden"
+    ], 
+    "SF13_ENG_064:org:date_dissolved": [], 
+    "SF13_ENG_064:org:date_founded": [
+        "1966-xx-xx"
+    ], 
+    "SF13_ENG_064:org:founded_by": [], 
+    "SF13_ENG_064:org:member_of": [], 
+    "SF13_ENG_064:org:members": [], 
+    "SF13_ENG_064:org:number_of_employees_members": [], 
+    "SF13_ENG_064:org:parents": [], 
+    "SF13_ENG_064:org:political_religious_affiliation": [], 
+    "SF13_ENG_064:org:shareholders": [], 
+    "SF13_ENG_064:org:stateorprovince_of_headquarters": [], 
+    "SF13_ENG_064:org:subsidiaries": [], 
+    "SF13_ENG_064:org:top_members_employees": [
+        "bates gill"
+    ], 
+    "SF13_ENG_064:org:website": [
+        "www.sipri.org", 
+        "http://www.sipri.org/"
+    ], 
+    "SF13_ENG_065:org:alternate_names": [], 
+    "SF13_ENG_065:org:city_of_headquarters": [
+        "bristow"
+    ], 
+    "SF13_ENG_065:org:country_of_headquarters": [], 
+    "SF13_ENG_065:org:date_dissolved": [], 
+    "SF13_ENG_065:org:date_founded": [], 
+    "SF13_ENG_065:org:founded_by": [], 
+    "SF13_ENG_065:org:number_of_employees_members": [], 
+    "SF13_ENG_065:org:parents": [], 
+    "SF13_ENG_065:org:political_religious_affiliation": [], 
+    "SF13_ENG_065:org:shareholders": [], 
+    "SF13_ENG_065:org:stateorprovince_of_headquarters": [
+        "virginia"
+    ], 
+    "SF13_ENG_065:org:subsidiaries": [], 
+    "SF13_ENG_065:org:top_members_employees": [], 
+    "SF13_ENG_065:org:website": [
+        "http://www.osbva.org/", 
+        "http://www.osbva.org"
+    ], 
+    "SF13_ENG_066:org:alternate_names": [
+        "nigerian police force", 
+        "npf"
+    ], 
+    "SF13_ENG_066:org:city_of_headquarters": [], 
+    "SF13_ENG_066:org:country_of_headquarters": [
+        "nigeria"
+    ], 
+    "SF13_ENG_066:org:date_dissolved": [], 
+    "SF13_ENG_066:org:date_founded": [], 
+    "SF13_ENG_066:org:founded_by": [], 
+    "SF13_ENG_066:org:member_of": [], 
+    "SF13_ENG_066:org:members": [], 
+    "SF13_ENG_066:org:number_of_employees_members": [
+        "377000"
+    ], 
+    "SF13_ENG_066:org:parents": [], 
+    "SF13_ENG_066:org:political_religious_affiliation": [], 
+    "SF13_ENG_066:org:shareholders": [], 
+    "SF13_ENG_066:org:stateorprovince_of_headquarters": [], 
+    "SF13_ENG_066:org:subsidiaries": [], 
+    "SF13_ENG_066:org:top_members_employees": [
+        "hafiz ringim", 
+        "mike okiro", 
+        "ogbonnaya onovo"
+    ], 
+    "SF13_ENG_066:org:website": [
+        "http://www.npf.gov.ng"
+    ], 
+    "SF13_ENG_067:org:alternate_names": [
+        "plos"
+    ], 
+    "SF13_ENG_067:org:city_of_headquarters": [
+        "san francisco"
+    ], 
+    "SF13_ENG_067:org:country_of_headquarters": [
+        "us"
+    ], 
+    "SF13_ENG_067:org:date_dissolved": [], 
+    "SF13_ENG_067:org:date_founded": [], 
+    "SF13_ENG_067:org:founded_by": [], 
+    "SF13_ENG_067:org:member_of": [], 
+    "SF13_ENG_067:org:members": [], 
+    "SF13_ENG_067:org:number_of_employees_members": [], 
+    "SF13_ENG_067:org:parents": [], 
+    "SF13_ENG_067:org:political_religious_affiliation": [], 
+    "SF13_ENG_067:org:shareholders": [], 
+    "SF13_ENG_067:org:stateorprovince_of_headquarters": [], 
+    "SF13_ENG_067:org:subsidiaries": [], 
+    "SF13_ENG_067:org:top_members_employees": [
+        "harold varmus"
+    ], 
+    "SF13_ENG_067:org:website": [
+        "http://www.plos.org", 
+        "www.plos.org", 
+        "http://www.plos.org/"
+    ], 
+    "SF13_ENG_068:org:alternate_names": [
+        "ita"
+    ], 
+    "SF13_ENG_068:org:city_of_headquarters": [], 
+    "SF13_ENG_068:org:country_of_headquarters": [], 
+    "SF13_ENG_068:org:date_dissolved": [], 
+    "SF13_ENG_068:org:date_founded": [], 
+    "SF13_ENG_068:org:founded_by": [], 
+    "SF13_ENG_068:org:member_of": [], 
+    "SF13_ENG_068:org:members": [], 
+    "SF13_ENG_068:org:parents": [], 
+    "SF13_ENG_068:org:political_religious_affiliation": [], 
+    "SF13_ENG_068:org:shareholders": [], 
+    "SF13_ENG_068:org:stateorprovince_of_headquarters": [
+        "washington"
+    ], 
+    "SF13_ENG_068:org:subsidiaries": [], 
+    "SF13_ENG_068:org:top_members_employees": [
+        "john overstreet", 
+        "dan humiston"
+    ], 
+    "SF13_ENG_068:org:website": [
+        "http://www.theita.com", 
+        "www.theita.com"
+    ], 
+    "SF13_ENG_069:org:alternate_names": [
+        "iarc"
+    ], 
+    "SF13_ENG_069:org:city_of_headquarters": [
+        "lyon"
+    ], 
+    "SF13_ENG_069:org:country_of_headquarters": [
+        "france"
+    ], 
+    "SF13_ENG_069:org:date_dissolved": [], 
+    "SF13_ENG_069:org:date_founded": [], 
+    "SF13_ENG_069:org:founded_by": [], 
+    "SF13_ENG_069:org:member_of": [
+        "world health organization", 
+        "world health organisation"
+    ], 
+    "SF13_ENG_069:org:members": [], 
+    "SF13_ENG_069:org:number_of_employees_members": [], 
+    "SF13_ENG_069:org:parents": [
+        "world health organization", 
+        "world health organisation"
+    ], 
+    "SF13_ENG_069:org:political_religious_affiliation": [], 
+    "SF13_ENG_069:org:shareholders": [], 
+    "SF13_ENG_069:org:stateorprovince_of_headquarters": [], 
+    "SF13_ENG_069:org:subsidiaries": [], 
+    "SF13_ENG_069:org:top_members_employees": [
+        "christopher wild", 
+        "peter boyle", 
+        "vincent cogliano"
+    ], 
+    "SF13_ENG_069:org:website": [
+        "http://www.iarc.fr/", 
+        "http:\\\\www.iarc.fr\\", 
+        "www.iarc.fr"
+    ], 
+    "SF13_ENG_070:org:alternate_names": [
+        "cfmt", 
+        "community relief foundation of middle tennessee"
+    ], 
+    "SF13_ENG_070:org:city_of_headquarters": [
+        "nashville"
+    ], 
+    "SF13_ENG_070:org:country_of_headquarters": [], 
+    "SF13_ENG_070:org:date_dissolved": [], 
+    "SF13_ENG_070:org:date_founded": [], 
+    "SF13_ENG_070:org:founded_by": [], 
+    "SF13_ENG_070:org:member_of": [], 
+    "SF13_ENG_070:org:number_of_employees_members": [], 
+    "SF13_ENG_070:org:parents": [], 
+    "SF13_ENG_070:org:political_religious_affiliation": [], 
+    "SF13_ENG_070:org:shareholders": [], 
+    "SF13_ENG_070:org:stateorprovince_of_headquarters": [
+        "tennessee"
+    ], 
+    "SF13_ENG_070:org:subsidiaries": [
+        "metro nashville disaster relief fund"
+    ], 
+    "SF13_ENG_070:org:top_members_employees": [], 
+    "SF13_ENG_070:org:website": [
+        "www.cfmt.org", 
+        "http://www.cfmt.org"
+    ], 
+    "SF13_ENG_071:org:alternate_names": [
+        "sete"
+    ], 
+    "SF13_ENG_071:org:city_of_headquarters": [], 
+    "SF13_ENG_071:org:country_of_headquarters": [
+        "greece"
+    ], 
+    "SF13_ENG_071:org:date_dissolved": [], 
+    "SF13_ENG_071:org:date_founded": [], 
+    "SF13_ENG_071:org:founded_by": [], 
+    "SF13_ENG_071:org:member_of": [], 
+    "SF13_ENG_071:org:members": [], 
+    "SF13_ENG_071:org:number_of_employees_members": [], 
+    "SF13_ENG_071:org:parents": [], 
+    "SF13_ENG_071:org:shareholders": [], 
+    "SF13_ENG_071:org:stateorprovince_of_headquarters": [], 
+    "SF13_ENG_071:org:subsidiaries": [], 
+    "SF13_ENG_071:org:top_members_employees": [
+        "george drakopoulos", 
+        "nikos aggelopoulos"
+    ], 
+    "SF13_ENG_071:org:website": [
+        "www.sete.gr", 
+        "http:\\\\www.sete.gr\\", 
+        "http://www.sete.gr/"
+    ], 
+    "SF13_ENG_072:org:alternate_names": [
+        "moody's"
+    ], 
+    "SF13_ENG_072:org:country_of_headquarters": [], 
+    "SF13_ENG_072:org:date_dissolved": [], 
+    "SF13_ENG_072:org:founded_by": [
+        "john moody"
+    ], 
+    "SF13_ENG_072:org:member_of": [], 
+    "SF13_ENG_072:org:members": [
+        "moody's analytics"
+    ], 
+    "SF13_ENG_072:org:number_of_employees_members": [], 
+    "SF13_ENG_072:org:parents": [], 
+    "SF13_ENG_072:org:political_religious_affiliation": [], 
+    "SF13_ENG_072:org:shareholders": [
+        "warren buffett", 
+        "warren e. buffett", 
+        "berkshire hathaway inc."
+    ], 
+    "SF13_ENG_072:org:stateorprovince_of_headquarters": [
+        "new york"
+    ], 
+    "SF13_ENG_072:org:subsidiaries": [
+        "moody 's investors service", 
+        "moody's analytics", 
+        "moody's investors service"
+    ], 
+    "SF13_ENG_072:org:top_members_employees": [
+        "raymond w. mcdaniel jr", 
+        "sarah carlson", 
+        "eric kolchinsky", 
+        "jean-francois tremblay", 
+        "william black", 
+        "tadashi usui", 
+        "arnaud mares", 
+        "kathrin muehlbronner", 
+        "ken chan", 
+        "raymond mcdaniel", 
+        "raymond w. mcdaniel jr."
+    ], 
+    "SF13_ENG_073:org:alternate_names": [
+        "gip"
+    ], 
+    "SF13_ENG_073:org:city_of_headquarters": [], 
+    "SF13_ENG_073:org:country_of_headquarters": [
+        "us"
+    ], 
+    "SF13_ENG_073:org:date_dissolved": [], 
+    "SF13_ENG_073:org:date_founded": [], 
+    "SF13_ENG_073:org:founded_by": [], 
+    "SF13_ENG_073:org:member_of": [], 
+    "SF13_ENG_073:org:members": [], 
+    "SF13_ENG_073:org:number_of_employees_members": [], 
+    "SF13_ENG_073:org:parents": [], 
+    "SF13_ENG_073:org:political_religious_affiliation": [], 
+    "SF13_ENG_073:org:shareholders": [
+        "credit suisse"
+    ], 
+    "SF13_ENG_073:org:stateorprovince_of_headquarters": [
+        "new york"
+    ], 
+    "SF13_ENG_073:org:subsidiaries": [
+        "gatwick", 
+        "london city airport"
+    ], 
+    "SF13_ENG_073:org:top_members_employees": [], 
+    "SF13_ENG_073:org:website": [
+        "www.global-infra.com", 
+        "http://www.global-infra.com"
+    ], 
+    "SF13_ENG_074:org:alternate_names": [
+        "southgobi energy resources ltd."
+    ], 
+    "SF13_ENG_074:org:city_of_headquarters": [], 
+    "SF13_ENG_074:org:country_of_headquarters": [
+        "canada"
+    ], 
+    "SF13_ENG_074:org:date_dissolved": [], 
+    "SF13_ENG_074:org:date_founded": [], 
+    "SF13_ENG_074:org:founded_by": [], 
+    "SF13_ENG_074:org:member_of": [], 
+    "SF13_ENG_074:org:number_of_employees_members": [], 
+    "SF13_ENG_074:org:parents": [
+        "ivanhoe mines"
+    ], 
+    "SF13_ENG_074:org:political_religious_affiliation": [], 
+    "SF13_ENG_074:org:shareholders": [
+        "ivanhoe mines ltd.", 
+        "china investment corp"
+    ], 
+    "SF13_ENG_074:org:stateorprovince_of_headquarters": [], 
+    "SF13_ENG_074:org:subsidiaries": [], 
+    "SF13_ENG_074:org:top_members_employees": [], 
+    "SF13_ENG_074:org:website": [
+        "www.southgobi.com", 
+        "http://www.southgobi.com"
+    ], 
+    "SF13_ENG_075:org:alternate_names": [
+        "champalimaud"
+    ], 
+    "SF13_ENG_075:org:city_of_headquarters": [], 
+    "SF13_ENG_075:org:country_of_headquarters": [
+        "portugal"
+    ], 
+    "SF13_ENG_075:org:date_dissolved": [], 
+    "SF13_ENG_075:org:date_founded": [
+        "2004-xx-xx"
+    ], 
+    "SF13_ENG_075:org:founded_by": [
+        "antonio de sommer champalimaud"
+    ], 
+    "SF13_ENG_075:org:number_of_employees_members": [], 
+    "SF13_ENG_075:org:parents": [], 
+    "SF13_ENG_075:org:political_religious_affiliation": [], 
+    "SF13_ENG_075:org:shareholders": [], 
+    "SF13_ENG_075:org:stateorprovince_of_headquarters": [], 
+    "SF13_ENG_075:org:subsidiaries": [], 
+    "SF13_ENG_075:org:top_members_employees": [
+        "leonor beleza"
+    ], 
+    "SF13_ENG_075:org:website": [
+        "www.fchampalimaud.org", 
+        "http://www.fchampalimaud.org/"
+    ], 
+    "SF13_ENG_076:org:alternate_names": [
+        "sba"
+    ], 
+    "SF13_ENG_076:org:city_of_headquarters": [
+        "basel"
+    ], 
+    "SF13_ENG_076:org:country_of_headquarters": [
+        "switzerland"
+    ], 
+    "SF13_ENG_076:org:date_dissolved": [], 
+    "SF13_ENG_076:org:date_founded": [], 
+    "SF13_ENG_076:org:founded_by": [], 
+    "SF13_ENG_076:org:member_of": [], 
+    "SF13_ENG_076:org:members": [], 
+    "SF13_ENG_076:org:number_of_employees_members": [], 
+    "SF13_ENG_076:org:parents": [], 
+    "SF13_ENG_076:org:political_religious_affiliation": [], 
+    "SF13_ENG_076:org:shareholders": [], 
+    "SF13_ENG_076:org:stateorprovince_of_headquarters": [], 
+    "SF13_ENG_076:org:subsidiaries": [], 
+    "SF13_ENG_076:org:top_members_employees": [
+        "urs p. roth", 
+        "urs roth", 
+        "claude-alain margelisch", 
+        "pierre mirabaud", 
+        "patrick odier"
+    ], 
+    "SF13_ENG_076:org:website": [
+        "www.swissbanking.org", 
+        "http://www.swissbanking.org"
+    ], 
+    "SF13_ENG_077:org:alternate_names": [
+        "nei"
+    ], 
+    "SF13_ENG_077:org:city_of_headquarters": [
+        "washington"
+    ], 
+    "SF13_ENG_077:org:country_of_headquarters": [
+        "u.s."
+    ], 
+    "SF13_ENG_077:org:date_dissolved": [], 
+    "SF13_ENG_077:org:date_founded": [], 
+    "SF13_ENG_077:org:founded_by": [], 
+    "SF13_ENG_077:org:member_of": [], 
+    "SF13_ENG_077:org:members": [], 
+    "SF13_ENG_077:org:number_of_employees_members": [], 
+    "SF13_ENG_077:org:parents": [], 
+    "SF13_ENG_077:org:political_religious_affiliation": [], 
+    "SF13_ENG_077:org:shareholders": [], 
+    "SF13_ENG_077:org:stateorprovince_of_headquarters": [
+        "washington"
+    ], 
+    "SF13_ENG_077:org:subsidiaries": [], 
+    "SF13_ENG_077:org:top_members_employees": [
+        "marvin fertel", 
+        "richard myers", 
+        "alex flint"
+    ], 
+    "SF13_ENG_077:org:website": [
+        "http://www.nei.org/", 
+        "http://www.nei.org"
+    ], 
+    "SF13_ENG_078:org:alternate_names": [
+        "thomas more law centre", 
+        "thomas more"
+    ], 
+    "SF13_ENG_078:org:city_of_headquarters": [
+        "ann arbor"
+    ], 
+    "SF13_ENG_078:org:country_of_headquarters": [], 
+    "SF13_ENG_078:org:date_dissolved": [], 
+    "SF13_ENG_078:org:date_founded": [], 
+    "SF13_ENG_078:org:founded_by": [], 
+    "SF13_ENG_078:org:member_of": [], 
+    "SF13_ENG_078:org:number_of_employees_members": [], 
+    "SF13_ENG_078:org:parents": [], 
+    "SF13_ENG_078:org:political_religious_affiliation": [
+        "christian"
+    ], 
+    "SF13_ENG_078:org:shareholders": [], 
+    "SF13_ENG_078:org:stateorprovince_of_headquarters": [
+        "michigan", 
+        "mich."
+    ], 
+    "SF13_ENG_078:org:subsidiaries": [], 
+    "SF13_ENG_078:org:top_members_employees": [
+        "richard thompson"
+    ], 
+    "SF13_ENG_078:org:website": [
+        "http://www.thomasmore.org"
+    ], 
+    "SF13_ENG_079:org:alternate_names": [
+        "siwi"
+    ], 
+    "SF13_ENG_079:org:city_of_headquarters": [
+        "stockholm"
+    ], 
+    "SF13_ENG_079:org:country_of_headquarters": [], 
+    "SF13_ENG_079:org:date_dissolved": [], 
+    "SF13_ENG_079:org:date_founded": [], 
+    "SF13_ENG_079:org:founded_by": [], 
+    "SF13_ENG_079:org:member_of": [], 
+    "SF13_ENG_079:org:members": [], 
+    "SF13_ENG_079:org:number_of_employees_members": [], 
+    "SF13_ENG_079:org:parents": [], 
+    "SF13_ENG_079:org:political_religious_affiliation": [], 
+    "SF13_ENG_079:org:shareholders": [], 
+    "SF13_ENG_079:org:stateorprovince_of_headquarters": [], 
+    "SF13_ENG_079:org:subsidiaries": [], 
+    "SF13_ENG_079:org:top_members_employees": [
+        "anders bertil", 
+        "anders berntell"
+    ], 
+    "SF13_ENG_079:org:website": [
+        "www.siwi.org", 
+        "http://www.siwi.org"
+    ], 
+    "SF13_ENG_080:org:alternate_names": [
+        "iwmi"
+    ], 
+    "SF13_ENG_080:org:city_of_headquarters": [], 
+    "SF13_ENG_080:org:country_of_headquarters": [
+        "sri lanka"
+    ], 
+    "SF13_ENG_080:org:date_dissolved": [], 
+    "SF13_ENG_080:org:date_founded": [], 
+    "SF13_ENG_080:org:founded_by": [], 
+    "SF13_ENG_080:org:member_of": [
+        "consultative group on international agricultural research"
+    ], 
+    "SF13_ENG_080:org:members": [], 
+    "SF13_ENG_080:org:number_of_employees_members": [], 
+    "SF13_ENG_080:org:parents": [], 
+    "SF13_ENG_080:org:political_religious_affiliation": [], 
+    "SF13_ENG_080:org:shareholders": [], 
+    "SF13_ENG_080:org:stateorprovince_of_headquarters": [], 
+    "SF13_ENG_080:org:subsidiaries": [], 
+    "SF13_ENG_080:org:top_members_employees": [
+        "colin chartres", 
+        "david molden"
+    ], 
+    "SF13_ENG_080:org:website": [
+        "http://www.iwmi.cgiar.org"
+    ], 
+    "SF13_ENG_081:org:alternate_names": [
+        "opera society of washington", 
+        "washington opera", 
+        "wno", 
+        "d.c. opera"
+    ], 
+    "SF13_ENG_081:org:city_of_headquarters": [], 
+    "SF13_ENG_081:org:country_of_headquarters": [
+        "united states"
+    ], 
+    "SF13_ENG_081:org:date_dissolved": [], 
+    "SF13_ENG_081:org:date_founded": [], 
+    "SF13_ENG_081:org:founded_by": [], 
+    "SF13_ENG_081:org:member_of": [], 
+    "SF13_ENG_081:org:members": [], 
+    "SF13_ENG_081:org:number_of_employees_members": [], 
+    "SF13_ENG_081:org:parents": [], 
+    "SF13_ENG_081:org:political_religious_affiliation": [], 
+    "SF13_ENG_081:org:shareholders": [], 
+    "SF13_ENG_081:org:stateorprovince_of_headquarters": [], 
+    "SF13_ENG_081:org:subsidiaries": [], 
+    "SF13_ENG_081:org:top_members_employees": [
+        "kenneth feinberg", 
+        "mark j. weinstein", 
+        "kenneth r. feinberg", 
+        "pl cido domingo", 
+        "placido domingo"
+    ], 
+    "SF13_ENG_081:org:website": [
+        "http://www.dc-opera.org/"
+    ], 
+    "SF13_ENG_082:org:alternate_names": [], 
+    "SF13_ENG_082:org:city_of_headquarters": [
+        "alexandria"
+    ], 
+    "SF13_ENG_082:org:country_of_headquarters": [
+        "united states", 
+        "u.s."
+    ], 
+    "SF13_ENG_082:org:date_dissolved": [], 
+    "SF13_ENG_082:org:date_founded": [], 
+    "SF13_ENG_082:org:founded_by": [], 
+    "SF13_ENG_082:org:member_of": [], 
+    "SF13_ENG_082:org:members": [], 
+    "SF13_ENG_082:org:number_of_employees_members": [], 
+    "SF13_ENG_082:org:parents": [], 
+    "SF13_ENG_082:org:political_religious_affiliation": [], 
+    "SF13_ENG_082:org:shareholders": [], 
+    "SF13_ENG_082:org:stateorprovince_of_headquarters": [
+        "virginia"
+    ], 
+    "SF13_ENG_082:org:subsidiaries": [], 
+    "SF13_ENG_082:org:top_members_employees": [
+        "mary f. robinson", 
+        "mary robinson", 
+        "chuck johnson", 
+        "thomas atwood"
+    ], 
+    "SF13_ENG_082:org:website": [
+        "www.adoptioncouncil.org", 
+        "http://www.adoptioncouncil.org"
+    ], 
+    "SF13_ENG_083:org:alternate_names": [
+        "jcics"
+    ], 
+    "SF13_ENG_083:org:city_of_headquarters": [], 
+    "SF13_ENG_083:org:country_of_headquarters": [], 
+    "SF13_ENG_083:org:date_dissolved": [], 
+    "SF13_ENG_083:org:date_founded": [], 
+    "SF13_ENG_083:org:founded_by": [], 
+    "SF13_ENG_083:org:members": [], 
+    "SF13_ENG_083:org:number_of_employees_members": [], 
+    "SF13_ENG_083:org:parents": [], 
+    "SF13_ENG_083:org:political_religious_affiliation": [], 
+    "SF13_ENG_083:org:shareholders": [], 
+    "SF13_ENG_083:org:stateorprovince_of_headquarters": [], 
+    "SF13_ENG_083:org:subsidiaries": [], 
+    "SF13_ENG_083:org:top_members_employees": [
+        "tom difilipo", 
+        "tom defilipo", 
+        "thomas difilipo"
+    ], 
+    "SF13_ENG_083:org:website": [
+        "www.jcics.org", 
+        "http://www.jcics.org/"
+    ], 
+    "SF13_ENG_084:org:alternate_names": [
+        "bipartisan policy", 
+        "bipartisan center", 
+        "bpc", 
+        "bipartisan policy group"
+    ], 
+    "SF13_ENG_084:org:city_of_headquarters": [], 
+    "SF13_ENG_084:org:country_of_headquarters": [], 
+    "SF13_ENG_084:org:date_dissolved": [], 
+    "SF13_ENG_084:org:date_founded": [
+        "2007-xx-xx"
+    ], 
+    "SF13_ENG_084:org:founded_by": [
+        "tom daschle", 
+        "george mitchell", 
+        "bob dole", 
+        "howard baker", 
+        "jason grumet"
+    ], 
+    "SF13_ENG_084:org:member_of": [], 
+    "SF13_ENG_084:org:members": [], 
+    "SF13_ENG_084:org:number_of_employees_members": [], 
+    "SF13_ENG_084:org:parents": [], 
+    "SF13_ENG_084:org:political_religious_affiliation": [], 
+    "SF13_ENG_084:org:shareholders": [], 
+    "SF13_ENG_084:org:stateorprovince_of_headquarters": [], 
+    "SF13_ENG_084:org:subsidiaries": [
+        "national commission on energy policy"
+    ], 
+    "SF13_ENG_084:org:top_members_employees": [
+        "pete domenici", 
+        "tom daschle", 
+        "george mitchell", 
+        "eileen mcmenamin", 
+        "alice rivlin", 
+        "howard baker", 
+        "charles konigsberg", 
+        "jason grumet", 
+        "paul bledsoe", 
+        "jason s. grumet"
+    ], 
+    "SF13_ENG_084:org:website": [
+        "http://www.bipartisanpolicy.org/"
+    ], 
+    "SF13_ENG_085:org:alternate_names": [
+        "commission", 
+        "cbrc"
+    ], 
+    "SF13_ENG_085:org:city_of_headquarters": [], 
+    "SF13_ENG_085:org:country_of_headquarters": [
+        "china", 
+        "chinese"
+    ], 
+    "SF13_ENG_085:org:date_dissolved": [], 
+    "SF13_ENG_085:org:date_founded": [], 
+    "SF13_ENG_085:org:founded_by": [], 
+    "SF13_ENG_085:org:member_of": [], 
+    "SF13_ENG_085:org:members": [], 
+    "SF13_ENG_085:org:number_of_employees_members": [], 
+    "SF13_ENG_085:org:parents": [
+        "china"
+    ], 
+    "SF13_ENG_085:org:political_religious_affiliation": [], 
+    "SF13_ENG_085:org:shareholders": [], 
+    "SF13_ENG_085:org:stateorprovince_of_headquarters": [
+        "beijing"
+    ], 
+    "SF13_ENG_085:org:subsidiaries": [], 
+    "SF13_ENG_085:org:top_members_employees": [
+        "yang xilun", 
+        "liu mingkang", 
+        "cai esheng", 
+        "li fuan", 
+        "jia kang", 
+        "jiang dingzhi", 
+        "wang zhaoxing", 
+        "liu", 
+        "yan qingmin", 
+        "liu minkang"
+    ], 
+    "SF13_ENG_085:org:website": [
+        "http://www.cbrc.gov.cn"
+    ], 
+    "SF13_ENG_086:org:alternate_names": [
+        "sasac", 
+        "state assets supervision and administration commission"
+    ], 
+    "SF13_ENG_086:org:city_of_headquarters": [], 
+    "SF13_ENG_086:org:country_of_headquarters": [
+        "china"
+    ], 
+    "SF13_ENG_086:org:date_dissolved": [], 
+    "SF13_ENG_086:org:date_founded": [
+        "2003-xx-xx"
+    ], 
+    "SF13_ENG_086:org:founded_by": [], 
+    "SF13_ENG_086:org:member_of": [], 
+    "SF13_ENG_086:org:members": [], 
+    "SF13_ENG_086:org:number_of_employees_members": [], 
+    "SF13_ENG_086:org:parents": [
+        "state council", 
+        "china", 
+        "cabinet"
+    ], 
+    "SF13_ENG_086:org:political_religious_affiliation": [], 
+    "SF13_ENG_086:org:shareholders": [], 
+    "SF13_ENG_086:org:stateorprovince_of_headquarters": [], 
+    "SF13_ENG_086:org:subsidiaries": [
+        "china mobile"
+    ], 
+    "SF13_ENG_086:org:top_members_employees": [
+        "li wei", 
+        "huang danhua", 
+        "huang shuhe", 
+        "li rongrong", 
+        "shao ning", 
+        "wang yong"
+    ], 
+    "SF13_ENG_086:org:website": [
+        "http://www.sasac.gov.cn"
+    ], 
+    "SF13_ENG_087:org:alternate_names": [
+        "alba", 
+        "bolivarian alliance for the americas"
+    ], 
+    "SF13_ENG_087:org:city_of_headquarters": [], 
+    "SF13_ENG_087:org:country_of_headquarters": [], 
+    "SF13_ENG_087:org:date_dissolved": [], 
+    "SF13_ENG_087:org:date_founded": [
+        "2004-xx-xx"
+    ], 
+    "SF13_ENG_087:org:founded_by": [
+        "fidel castro", 
+        "venezuela", 
+        "hugo chavez", 
+        "cuba"
+    ], 
+    "SF13_ENG_087:org:member_of": [], 
+    "SF13_ENG_087:org:members": [
+        "honduras", 
+        "cuba", 
+        "venezuela", 
+        "antigua and barbuda", 
+        "ecuador", 
+        "saint vincent and the grenadines", 
+        "bolivia", 
+        "nicaragua", 
+        "dominica"
+    ], 
+    "SF13_ENG_087:org:number_of_employees_members": [], 
+    "SF13_ENG_087:org:parents": [], 
+    "SF13_ENG_087:org:political_religious_affiliation": [], 
+    "SF13_ENG_087:org:shareholders": [], 
+    "SF13_ENG_087:org:stateorprovince_of_headquarters": [], 
+    "SF13_ENG_087:org:subsidiaries": [], 
+    "SF13_ENG_087:org:top_members_employees": [
+        "hugo chavez"
+    ], 
+    "SF13_ENG_087:org:website": [], 
+    "SF13_ENG_088:org:alternate_names": [
+        "bank julius baer & co.", 
+        "julius baer group", 
+        "bank julius baer co.", 
+        "julius baer"
+    ], 
+    "SF13_ENG_088:org:city_of_headquarters": [
+        "basel", 
+        "zurich"
+    ], 
+    "SF13_ENG_088:org:country_of_headquarters": [
+        "swiss", 
+        "switzerland"
+    ], 
+    "SF13_ENG_088:org:date_dissolved": [], 
+    "SF13_ENG_088:org:date_founded": [
+        "1890-xx-xx"
+    ], 
+    "SF13_ENG_088:org:founded_by": [
+        "julius baer"
+    ], 
+    "SF13_ENG_088:org:member_of": [], 
+    "SF13_ENG_088:org:members": [], 
+    "SF13_ENG_088:org:number_of_employees_members": [], 
+    "SF13_ENG_088:org:parents": [], 
+    "SF13_ENG_088:org:political_religious_affiliation": [], 
+    "SF13_ENG_088:org:shareholders": [], 
+    "SF13_ENG_088:org:stateorprovince_of_headquarters": [], 
+    "SF13_ENG_088:org:subsidiaries": [], 
+    "SF13_ENG_088:org:top_members_employees": [
+        "frank gut", 
+        "boris collardi", 
+        "raymond j. baer"
+    ], 
+    "SF13_ENG_088:org:website": [], 
+    "SF13_ENG_089:org:alternate_names": [
+        "roe", 
+        "rosoboronexport"
+    ], 
+    "SF13_ENG_089:org:city_of_headquarters": [], 
+    "SF13_ENG_089:org:country_of_headquarters": [
+        "russian", 
+        "russian federation", 
+        "russia"
+    ], 
+    "SF13_ENG_089:org:date_dissolved": [], 
+    "SF13_ENG_089:org:date_founded": [
+        "2000-11-04"
+    ], 
+    "SF13_ENG_089:org:founded_by": [
+        "vladimir putin"
+    ], 
+    "SF13_ENG_089:org:member_of": [
+        "russian"
+    ], 
+    "SF13_ENG_089:org:members": [], 
+    "SF13_ENG_089:org:number_of_employees_members": [], 
+    "SF13_ENG_089:org:parents": [
+        "russia"
+    ], 
+    "SF13_ENG_089:org:political_religious_affiliation": [], 
+    "SF13_ENG_089:org:shareholders": [], 
+    "SF13_ENG_089:org:stateorprovince_of_headquarters": [], 
+    "SF13_ENG_089:org:subsidiaries": [
+        "irkut"
+    ], 
+    "SF13_ENG_089:org:top_members_employees": [
+        "anatoly isaykin", 
+        "sergey chemezov", 
+        "anatoli isaikin", 
+        "anatoly isaikin", 
+        "serguei ladiguin", 
+        "sergei chemezov", 
+        "alexander mikheyev", 
+        "valeri varlamov"
+    ], 
+    "SF13_ENG_089:org:website": [], 
+    "SF13_ENG_090:org:alternate_names": [
+        "eco", 
+        "economic cooperation organisation"
+    ], 
+    "SF13_ENG_090:org:date_dissolved": [], 
+    "SF13_ENG_090:org:founded_by": [
+        "turkey", 
+        "pakistan", 
+        "iran"
+    ], 
+    "SF13_ENG_090:org:member_of": [], 
+    "SF13_ENG_090:org:members": [
+        "turkey", 
+        "afghanistan", 
+        "kyrgyzstan", 
+        "iran", 
+        "turkmenistan", 
+        "pakistan", 
+        "tajikistan", 
+        "azerbaijan", 
+        "uzbekistan", 
+        "kazakhstan"
+    ], 
+    "SF13_ENG_090:org:number_of_employees_members": [], 
+    "SF13_ENG_090:org:parents": [], 
+    "SF13_ENG_090:org:political_religious_affiliation": [], 
+    "SF13_ENG_090:org:shareholders": [], 
+    "SF13_ENG_090:org:stateorprovince_of_headquarters": [], 
+    "SF13_ENG_090:org:subsidiaries": [], 
+    "SF13_ENG_090:org:top_members_employees": [], 
+    "SF13_ENG_091:org:alternate_names": [
+        "karstadtquelle", 
+        "arcandor ag"
+    ], 
+    "SF13_ENG_091:org:city_of_headquarters": [
+        "essen"
+    ], 
+    "SF13_ENG_091:org:country_of_headquarters": [
+        "germany"
+    ], 
+    "SF13_ENG_091:org:date_dissolved": [], 
+    "SF13_ENG_091:org:date_founded": [
+        "1881-xx-xx"
+    ], 
+    "SF13_ENG_091:org:founded_by": [], 
+    "SF13_ENG_091:org:member_of": [], 
+    "SF13_ENG_091:org:members": [], 
+    "SF13_ENG_091:org:number_of_employees_members": [
+        "50,000"
+    ], 
+    "SF13_ENG_091:org:parents": [], 
+    "SF13_ENG_091:org:political_religious_affiliation": [], 
+    "SF13_ENG_091:org:shareholders": [
+        "sal oppenheim", 
+        "karl-gerhard eick", 
+        "madeleine schickedanz"
+    ], 
+    "SF13_ENG_091:org:stateorprovince_of_headquarters": [], 
+    "SF13_ENG_091:org:subsidiaries": [
+        "karstadt", 
+        "kardstadt", 
+        "karstadt warenhaus gmbh", 
+        "quelle", 
+        "kadewe", 
+        "primondo operations gmbh", 
+        "corporate service group gmbh", 
+        "quelle deutschland", 
+        "primondo", 
+        "quelle gmbh"
+    ], 
+    "SF13_ENG_091:org:top_members_employees": [
+        "thomas middlehoff", 
+        "karl-gerhard eick", 
+        "thomas middelhoff"
+    ], 
+    "SF13_ENG_091:org:website": [], 
+    "SF13_ENG_092:org:alternate_names": [
+        "escada ag"
+    ], 
+    "SF13_ENG_092:org:date_dissolved": [], 
+    "SF13_ENG_092:org:founded_by": [
+        "wolfgang ley"
+    ], 
+    "SF13_ENG_092:org:member_of": [], 
+    "SF13_ENG_092:org:members": [], 
+    "SF13_ENG_092:org:number_of_employees_members": [
+        "2,300", 
+        "2300"
+    ], 
+    "SF13_ENG_092:org:parents": [], 
+    "SF13_ENG_092:org:political_religious_affiliation": [], 
+    "SF13_ENG_092:org:shareholders": [
+        "megha mittal"
+    ], 
+    "SF13_ENG_092:org:stateorprovince_of_headquarters": [], 
+    "SF13_ENG_092:org:subsidiaries": [
+        "primera"
+    ], 
+    "SF13_ENG_092:org:top_members_employees": [
+        "megha mittal", 
+        "bruno saelzer"
+    ], 
+    "SF13_ENG_093:org:alternate_names": [
+        "saudi oger ltd", 
+        "saudi oger ltd."
+    ], 
+    "SF13_ENG_093:org:city_of_headquarters": [], 
+    "SF13_ENG_093:org:country_of_headquarters": [
+        "saudi arabia"
+    ], 
+    "SF13_ENG_093:org:date_dissolved": [], 
+    "SF13_ENG_093:org:date_founded": [], 
+    "SF13_ENG_093:org:founded_by": [], 
+    "SF13_ENG_093:org:member_of": [], 
+    "SF13_ENG_093:org:members": [], 
+    "SF13_ENG_093:org:number_of_employees_members": [
+        "35000", 
+        "35,000"
+    ], 
+    "SF13_ENG_093:org:parents": [], 
+    "SF13_ENG_093:org:political_religious_affiliation": [], 
+    "SF13_ENG_093:org:shareholders": [
+        "rafiq hariri"
+    ], 
+    "SF13_ENG_093:org:stateorprovince_of_headquarters": [], 
+    "SF13_ENG_093:org:subsidiaries": [], 
+    "SF13_ENG_093:org:top_members_employees": [
+        "saad hariri"
+    ], 
+    "SF13_ENG_093:org:website": [], 
+    "SF13_ENG_094:org:alternate_names": [
+        "rapiscan"
+    ], 
+    "SF13_ENG_094:org:city_of_headquarters": [
+        "torrance"
+    ], 
+    "SF13_ENG_094:org:country_of_headquarters": [
+        "us"
+    ], 
+    "SF13_ENG_094:org:date_dissolved": [], 
+    "SF13_ENG_094:org:date_founded": [], 
+    "SF13_ENG_094:org:founded_by": [], 
+    "SF13_ENG_094:org:member_of": [], 
+    "SF13_ENG_094:org:members": [], 
+    "SF13_ENG_094:org:number_of_employees_members": [], 
+    "SF13_ENG_094:org:parents": [
+        "osi systems", 
+        "osi systems inc.", 
+        "osi systems inc"
+    ], 
+    "SF13_ENG_094:org:political_religious_affiliation": [], 
+    "SF13_ENG_094:org:shareholders": [
+        "osi systems inc"
+    ], 
+    "SF13_ENG_094:org:stateorprovince_of_headquarters": [
+        "calif.", 
+        "california"
+    ], 
+    "SF13_ENG_094:org:subsidiaries": [], 
+    "SF13_ENG_094:org:top_members_employees": [
+        "peter kant", 
+        "terry whittock"
+    ], 
+    "SF13_ENG_094:org:website": [], 
+    "SF13_ENG_095:org:alternate_names": [
+        "attenti", 
+        "attenti holdings sa"
+    ], 
+    "SF13_ENG_095:org:city_of_headquarters": [
+        "tel aviv"
+    ], 
+    "SF13_ENG_095:org:country_of_headquarters": [
+        "israel", 
+        "israeli"
+    ], 
+    "SF13_ENG_095:org:date_dissolved": [], 
+    "SF13_ENG_095:org:date_founded": [], 
+    "SF13_ENG_095:org:member_of": [], 
+    "SF13_ENG_095:org:number_of_employees_members": [
+        "340"
+    ], 
+    "SF13_ENG_095:org:parents": [], 
+    "SF13_ENG_095:org:political_religious_affiliation": [], 
+    "SF13_ENG_095:org:shareholders": [], 
+    "SF13_ENG_095:org:stateorprovince_of_headquarters": [], 
+    "SF13_ENG_095:org:subsidiaries": [], 
+    "SF13_ENG_095:org:top_members_employees": [], 
+    "SF13_ENG_095:org:website": [], 
+    "SF13_ENG_096:org:alternate_names": [
+        "freedom communications inc.", 
+        "freedom communications holdings inc."
+    ], 
+    "SF13_ENG_096:org:city_of_headquarters": [
+        "irvine"
+    ], 
+    "SF13_ENG_096:org:country_of_headquarters": [
+        "united states"
+    ], 
+    "SF13_ENG_096:org:date_dissolved": [], 
+    "SF13_ENG_096:org:date_founded": [], 
+    "SF13_ENG_096:org:founded_by": [
+        "r.c. hoiles"
+    ], 
+    "SF13_ENG_096:org:member_of": [], 
+    "SF13_ENG_096:org:members": [], 
+    "SF13_ENG_096:org:number_of_employees_members": [], 
+    "SF13_ENG_096:org:parents": [], 
+    "SF13_ENG_096:org:political_religious_affiliation": [], 
+    "SF13_ENG_096:org:shareholders": [
+        "blackstone group"
+    ], 
+    "SF13_ENG_096:org:stateorprovince_of_headquarters": [
+        "california"
+    ], 
+    "SF13_ENG_096:org:subsidiaries": [
+        "orange county register", 
+        "the orange county register,"
+    ], 
+    "SF13_ENG_096:org:top_members_employees": [
+        "scott n. flanders", 
+        "osborne", 
+        "burl osborne", 
+        "scott flanders", 
+        "flanders"
+    ], 
+    "SF13_ENG_096:org:website": [], 
+    "SF13_ENG_097:org:alternate_names": [
+        "stx finland cruise", 
+        "stx finland oy"
+    ], 
+    "SF13_ENG_097:org:city_of_headquarters": [], 
+    "SF13_ENG_097:org:country_of_headquarters": [
+        "finnish", 
+        "finland"
+    ], 
+    "SF13_ENG_097:org:date_dissolved": [], 
+    "SF13_ENG_097:org:date_founded": [], 
+    "SF13_ENG_097:org:founded_by": [], 
+    "SF13_ENG_097:org:member_of": [
+        "stx", 
+        "stx europe group"
+    ], 
+    "SF13_ENG_097:org:members": [], 
+    "SF13_ENG_097:org:number_of_employees_members": [
+        "3,000"
+    ], 
+    "SF13_ENG_097:org:parents": [
+        "stx", 
+        "stx europe group"
+    ], 
+    "SF13_ENG_097:org:political_religious_affiliation": [], 
+    "SF13_ENG_097:org:shareholders": [], 
+    "SF13_ENG_097:org:stateorprovince_of_headquarters": [], 
+    "SF13_ENG_097:org:subsidiaries": [], 
+    "SF13_ENG_097:org:top_members_employees": [
+        "juha heikinheimo", 
+        "martin landtman"
+    ], 
+    "SF13_ENG_097:org:website": [
+        "www.stxeurope.com", 
+        "http://www.stxeurope.com"
+    ], 
+    "SF13_ENG_098:org:alternate_names": [
+        "emd millipore", 
+        "millipore"
+    ], 
+    "SF13_ENG_098:org:city_of_headquarters": [
+        "billerica"
+    ], 
+    "SF13_ENG_098:org:country_of_headquarters": [
+        "u.s.", 
+        "us"
+    ], 
+    "SF13_ENG_098:org:date_dissolved": [], 
+    "SF13_ENG_098:org:date_founded": [
+        "1954-xx-xx"
+    ], 
+    "SF13_ENG_098:org:founded_by": [], 
+    "SF13_ENG_098:org:member_of": [], 
+    "SF13_ENG_098:org:members": [], 
+    "SF13_ENG_098:org:number_of_employees_members": [
+        "5,900", 
+        "6,100", 
+        "6100"
+    ], 
+    "SF13_ENG_098:org:parents": [
+        "merck kgaa", 
+        "merck group", 
+        "merck millipore", 
+        "merck"
+    ], 
+    "SF13_ENG_098:org:political_religious_affiliation": [], 
+    "SF13_ENG_098:org:shareholders": [], 
+    "SF13_ENG_098:org:stateorprovince_of_headquarters": [
+        "massachusetts", 
+        "mass."
+    ], 
+    "SF13_ENG_098:org:subsidiaries": [], 
+    "SF13_ENG_098:org:top_members_employees": [
+        "martin d. madaus", 
+        "martin d madaus"
+    ], 
+    "SF13_ENG_098:org:website": [], 
+    "SF13_ENG_099:org:alternate_names": [
+        "dcn", 
+        "direction des constructions navales"
+    ], 
+    "SF13_ENG_099:org:city_of_headquarters": [
+        "paris"
+    ], 
+    "SF13_ENG_099:org:country_of_headquarters": [
+        "french", 
+        "france"
+    ], 
+    "SF13_ENG_099:org:date_dissolved": [], 
+    "SF13_ENG_099:org:date_founded": [], 
+    "SF13_ENG_099:org:founded_by": [], 
+    "SF13_ENG_099:org:member_of": [], 
+    "SF13_ENG_099:org:members": [], 
+    "SF13_ENG_099:org:number_of_employees_members": [
+        "12,000", 
+        "12000"
+    ], 
+    "SF13_ENG_099:org:parents": [
+        "thales"
+    ], 
+    "SF13_ENG_099:org:political_religious_affiliation": [], 
+    "SF13_ENG_099:org:shareholders": [
+        "thales"
+    ], 
+    "SF13_ENG_099:org:stateorprovince_of_headquarters": [], 
+    "SF13_ENG_099:org:subsidiaries": [
+        "armaris"
+    ], 
+    "SF13_ENG_099:org:top_members_employees": [
+        "patrick boissier"
+    ], 
+    "SF13_ENG_099:org:website": [], 
+    "SF13_ENG_100:org:alternate_names": [
+        "galleon group llc", 
+        "galleon", 
+        "galleon group llp", 
+        "galleon fund"
+    ], 
+    "SF13_ENG_100:org:city_of_headquarters": [], 
+    "SF13_ENG_100:org:country_of_headquarters": [
+        "u.s."
+    ], 
+    "SF13_ENG_100:org:date_dissolved": [], 
+    "SF13_ENG_100:org:date_founded": [
+        "1996-xx-xx"
+    ], 
+    "SF13_ENG_100:org:founded_by": [
+        "raj rajaratnam", 
+        "gary rosenbach"
+    ], 
+    "SF13_ENG_100:org:member_of": [], 
+    "SF13_ENG_100:org:members": [], 
+    "SF13_ENG_100:org:number_of_employees_members": [
+        "125"
+    ], 
+    "SF13_ENG_100:org:parents": [], 
+    "SF13_ENG_100:org:political_religious_affiliation": [], 
+    "SF13_ENG_100:org:shareholders": [
+        "raj rajaratnam"
+    ], 
+    "SF13_ENG_100:org:stateorprovince_of_headquarters": [
+        "new york"
+    ], 
+    "SF13_ENG_100:org:subsidiaries": [], 
+    "SF13_ENG_100:org:top_members_employees": [
+        "raj rajaratnam"
+    ], 
+    "SF13_ENG_100:org:website": []
+}
