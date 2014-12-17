@@ -16,11 +16,12 @@ UNKNOWN = 0;
 [nums, nume] = size(sc);  % get the number of sources and number of events
 
 % initialize the parameters
-tt = ones(nums, category_num)*0.9;  % ell T_i = pr(SC_ij = v | ell C_j = v)
-ff = ones(nums, category_num)*0.5;  % ell F_i = pr(SC_ij = ~v | ell C_j = v)
+[ttinit, ffinit] = initparam_multivar(sc, event_size, event_category, category_num);
+tt = ttinit;  % ell T_i = pr(SC_ij = v | ell C_j = v)
+ff = ffinit;  % ell F_i = pr(SC_ij = ~v | ell C_j = v)
 dv = cell(nume,1);
 for j = 1:1:nume
-    dv{j} = ones(event_size(j),1) * 0.6;
+    dv{j} = ones(event_size(j),1) * 0.5;
 end
 
 threshold = 0.0005;  % the threshold for judging convergence
